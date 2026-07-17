@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Daily Motivation",
+    "quote": "The secret of getting ahead is getting started.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 2,
+    "title": "Life Lesson",
+    "quote": "You don't have to be great to start, but you have to start to be great.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 3,
+    "title": "Mindset",
+    "quote": "Your only limit is the one you set yourself.",
+    "posted": false,
+    "posted_at": null
+  }
+]

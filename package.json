@@ -1,0 +1,18 @@
+{
+  "name": "motivation-bot",
+  "version": "1.0.0",
+  "description": "AutoMotivate – Autonomous Bluesky Motivational Quote Posting Bot",
+  "main": "scripts/post_github_action.js",
+  "scripts": {
+    "start": "node scripts/post_github_action.js"
+  },
+  "dependencies": {
+    "@atproto/api": "^0.20.28",
+    "@napi-rs/canvas": "^1.0.2",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "private": true
+}

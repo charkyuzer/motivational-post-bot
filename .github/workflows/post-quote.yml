@@ -1,0 +1,58 @@
+name: AutoPost Bluesky Motivation
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['src/data/quotes.json']
+
+concurrency:
+  group: post-quote
+  cancel-in-progress: false
+
+jobs:
+  post-quote:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+          ref: main
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Post Quote to Bluesky
+        env:
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+          NODE_ENV: production
+        run: node scripts/post_github_action.js
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          if [[ -n "$(git status --porcelain src/data/quotes.json)" ]]; then
+            git stash
+            git pull --rebase origin main
+            git stash pop
+            git add src/data/quotes.json
+            git commit -m "bot: auto-posted next quote"
+            git push origin HEAD:main
+          else
+            echo "No changes to quotes.json. Skipping commit."
+          fi
