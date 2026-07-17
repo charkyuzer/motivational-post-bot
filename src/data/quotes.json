@@ -17,8 +17,8 @@
     "id": 3,
     "title": "Deep Thought",
     "quote": "Your future is created by what you do today, not tomorrow.",
-    "posted": false,
-    "posted_at": null
+    "posted": true,
+    "posted_at": "2026-07-17T21:01:22.245Z"
   },
   {
     "id": 4,
