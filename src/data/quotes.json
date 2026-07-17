@@ -31,8 +31,8 @@
     "id": 5,
     "title": "Success",
     "quote": "Small steps repeated daily create extraordinary results.",
-    "posted": false,
-    "posted_at": null
+    "posted": true,
+    "posted_at": "2026-07-17T23:01:20.528Z"
   },
   {
     "id": 6,
