@@ -3,8 +3,8 @@
     "id": 1,
     "title": "Daily Motivation",
     "quote": "The secret of getting ahead is getting started.",
-    "posted": false,
-    "posted_at": null
+    "posted": true,
+    "posted_at": "2026-07-17T18:51:02.765Z"
   },
   {
     "id": 2,
