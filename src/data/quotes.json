@@ -9,14 +9,413 @@
   {
     "id": 2,
     "title": "Life Lesson",
-    "quote": "You don't have to be great to start, but you have to start to be great.",
+    "quote": "Discipline will take you places motivation never can.",
     "posted": false,
     "posted_at": null
   },
   {
     "id": 3,
+    "title": "Deep Thought",
+    "quote": "Your future is created by what you do today, not tomorrow.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 4,
     "title": "Mindset",
-    "quote": "Your only limit is the one you set yourself.",
+    "quote": "Growth begins where comfort ends.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 5,
+    "title": "Success",
+    "quote": "Small steps repeated daily create extraordinary results.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 6,
+    "title": "Wisdom",
+    "quote": "Time is the one investment you can never earn back.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 7,
+    "title": "Daily Motivation",
+    "quote": "Excuses build nothing. Effort builds everything.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 8,
+    "title": "Life Lesson",
+    "quote": "The strongest people are built by the hardest seasons.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 9,
+    "title": "Deep Thought",
+    "quote": "Don't fear failure. Fear never trying.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 10,
+    "title": "Mindset",
+    "quote": "You become what you repeatedly practice.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 11,
+    "title": "Success",
+    "quote": "Patience is not waiting. It is working while waiting.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 12,
+    "title": "Wisdom",
+    "quote": "A calm mind sees opportunities that panic never will.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 13,
+    "title": "Daily Motivation",
+    "quote": "Every expert was once a beginner who refused to quit.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 14,
+    "title": "Life Lesson",
+    "quote": "Your habits write the story your goals only imagine.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 15,
+    "title": "Deep Thought",
+    "quote": "Silence often teaches what noise never can.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 16,
+    "title": "Mindset",
+    "quote": "The pain of discipline weighs less than the pain of regret.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 17,
+    "title": "Success",
+    "quote": "Success is earned in private before it is seen in public.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 18,
+    "title": "Wisdom",
+    "quote": "Protect your peace more than your pride.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 19,
+    "title": "Daily Motivation",
+    "quote": "One good decision today changes countless tomorrows.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 20,
+    "title": "Life Lesson",
+    "quote": "The mountain looks impossible until you start climbing.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 21,
+    "title": "Deep Thought",
+    "quote": "Your character speaks louder than your words.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 22,
+    "title": "Mindset",
+    "quote": "Doubt kills more dreams than failure ever will.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 23,
+    "title": "Success",
+    "quote": "Hard work whispers before success makes noise.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 24,
+    "title": "Wisdom",
+    "quote": "Be patient with results but impatient with excuses.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 25,
+    "title": "Daily Motivation",
+    "quote": "Focus on progress, not perfection.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 26,
+    "title": "Life Lesson",
+    "quote": "Every sunrise is another chance to rewrite your story.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 27,
+    "title": "Deep Thought",
+    "quote": "The quality of your life depends on the quality of your choices.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 28,
+    "title": "Mindset",
+    "quote": "Strength grows quietly while comfort grows loudly.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 29,
+    "title": "Success",
+    "quote": "Great things take time. Keep showing up.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 30,
+    "title": "Wisdom",
+    "quote": "Your greatest competition is who you were yesterday.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 31,
+    "title": "Daily Motivation",
+    "quote": "Dreams demand action, not excuses.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 32,
+    "title": "Life Lesson",
+    "quote": "Respect is earned through consistency, not promises.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 33,
+    "title": "Deep Thought",
+    "quote": "The hardest battles are often fought within.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 34,
+    "title": "Mindset",
+    "quote": "The person you become matters more than what you achieve.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 35,
+    "title": "Success",
+    "quote": "Consistency beats intensity every single time.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 36,
+    "title": "Wisdom",
+    "quote": "Life rewards those who stay when others quit.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 37,
+    "title": "Daily Motivation",
+    "quote": "The comeback is always stronger than the setback.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 38,
+    "title": "Life Lesson",
+    "quote": "A grateful heart sees abundance everywhere.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 39,
+    "title": "Deep Thought",
+    "quote": "Peace comes when you stop chasing what isn't meant for you.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 40,
+    "title": "Mindset",
+    "quote": "Success begins with believing you are capable.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 41,
+    "title": "Success",
+    "quote": "Your limits are often opinions, not facts.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 42,
+    "title": "Wisdom",
+    "quote": "Kindness costs little but changes everything.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 43,
+    "title": "Daily Motivation",
+    "quote": "Every challenge hides an opportunity to grow.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 44,
+    "title": "Life Lesson",
+    "quote": "The strongest roots grow in the darkest soil.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 45,
+    "title": "Deep Thought",
+    "quote": "Your mindset shapes the world you experience.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 46,
+    "title": "Mindset",
+    "quote": "Do what is right even when no one is watching.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 47,
+    "title": "Success",
+    "quote": "Courage is moving forward despite the fear.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 48,
+    "title": "Wisdom",
+    "quote": "The best investment is improving yourself.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 49,
+    "title": "Daily Motivation",
+    "quote": "Success follows those who refuse to stop learning.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 50,
+    "title": "Life Lesson",
+    "quote": "Your actions introduce you before your words ever do.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 51,
+    "title": "Deep Thought",
+    "quote": "Sometimes letting go is the bravest decision.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 52,
+    "title": "Mindset",
+    "quote": "The future belongs to those who prepare for it today.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 53,
+    "title": "Success",
+    "quote": "The journey changes you more than the destination.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 54,
+    "title": "Wisdom",
+    "quote": "Confidence is built by keeping promises to yourself.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 55,
+    "title": "Daily Motivation",
+    "quote": "Your greatest asset is the belief that you can improve.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 56,
+    "title": "Life Lesson",
+    "quote": "What you tolerate today becomes your reality tomorrow.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 57,
+    "title": "Deep Thought",
+    "quote": "A meaningful life is built one intentional day at a time.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 58,
+    "title": "Mindset",
+    "quote": "Keep going. The person you want to become is waiting ahead.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 59,
+    "title": "Success",
+    "quote": "Success starts when excuses end.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 60,
+    "title": "Wisdom",
+    "quote": "Live in a way that your future self will thank you.",
     "posted": false,
     "posted_at": null
   }
