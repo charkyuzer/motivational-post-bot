@@ -171,8 +171,8 @@
     "id": 25,
     "title": "Daily Motivation",
     "quote": "Focus on progress, not perfection.",
-    "posted": false,
-    "posted_at": null
+    "posted": true,
+    "posted_at": "2026-07-18T19:01:51.904Z"
   },
   {
     "id": 26,
