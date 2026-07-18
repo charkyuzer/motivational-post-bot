@@ -87,8 +87,8 @@
     "id": 13,
     "title": "Daily Motivation",
     "quote": "Every expert was once a beginner who refused to quit.",
-    "posted": false,
-    "posted_at": null
+    "posted": true,
+    "posted_at": "2026-07-18T07:01:13.227Z"
   },
   {
     "id": 14,
