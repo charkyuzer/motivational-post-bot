@@ -101,8 +101,8 @@
     "id": 15,
     "title": "Deep Thought",
     "quote": "Silence often teaches what noise never can.",
-    "posted": false,
-    "posted_at": null
+    "posted": true,
+    "posted_at": "2026-07-18T09:02:17.791Z"
   },
   {
     "id": 16,
