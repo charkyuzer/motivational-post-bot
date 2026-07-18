@@ -80,8 +80,8 @@
     "id": 12,
     "title": "Wisdom",
     "quote": "A calm mind sees opportunities that panic never will.",
-    "posted": false,
-    "posted_at": null
+    "posted": true,
+    "posted_at": "2026-07-18T05:54:16.276Z"
   },
   {
     "id": 13,
