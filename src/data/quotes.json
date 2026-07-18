@@ -136,8 +136,8 @@
     "id": 20,
     "title": "Life Lesson",
     "quote": "The mountain looks impossible until you start climbing.",
-    "posted": false,
-    "posted_at": null
+    "posted": true,
+    "posted_at": "2026-07-18T14:02:21.697Z"
   },
   {
     "id": 21,
