@@ -45,8 +45,8 @@
     "id": 7,
     "title": "Daily Motivation",
     "quote": "Excuses build nothing. Effort builds everything.",
-    "posted": false,
-    "posted_at": null
+    "posted": true,
+    "posted_at": "2026-07-18T01:01:44.243Z"
   },
   {
     "id": 8,
