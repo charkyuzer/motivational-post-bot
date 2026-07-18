@@ -59,8 +59,8 @@
     "id": 9,
     "title": "Deep Thought",
     "quote": "Don't fear failure. Fear never trying.",
-    "posted": false,
-    "posted_at": null
+    "posted": true,
+    "posted_at": "2026-07-18T03:01:19.340Z"
   },
   {
     "id": 10,
