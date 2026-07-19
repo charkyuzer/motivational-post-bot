@@ -206,8 +206,8 @@
     "id": 30,
     "title": "Wisdom",
     "quote": "Your greatest competition is who you were yesterday.",
-    "posted": false,
-    "posted_at": null
+    "posted": true,
+    "posted_at": "2026-07-19T00:02:15.431Z"
   },
   {
     "id": 31,
