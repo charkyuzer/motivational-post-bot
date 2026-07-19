@@ -290,8 +290,8 @@
     "id": 42,
     "title": "Wisdom",
     "quote": "Kindness costs little but changes everything.",
-    "posted": false,
-    "posted_at": null
+    "posted": true,
+    "posted_at": "2026-07-19T12:01:53.452Z"
   },
   {
     "id": 43,
