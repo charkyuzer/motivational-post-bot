@@ -227,8 +227,8 @@
     "id": 33,
     "title": "Deep Thought",
     "quote": "The hardest battles are often fought within.",
-    "posted": false,
-    "posted_at": null
+    "posted": true,
+    "posted_at": "2026-07-19T03:01:35.550Z"
   },
   {
     "id": 34,
