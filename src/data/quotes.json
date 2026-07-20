@@ -423,8 +423,8 @@
     "id": 61,
     "title": "Daily Motivation",
     "quote": "You don't have to be great to start, but you have to start to be great.",
-    "posted": false,
-    "posted_at": null
+    "posted": true,
+    "posted_at": "2026-07-20T19:01:07.945Z"
   },
   {
     "id": 62,
