@@ -48,11 +48,10 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          git pull origin main --rebase
-
           if [[ -n "$(git status --porcelain src/data/quotes.json)" ]]; then
             git add src/data/quotes.json
             git commit -m "bot: auto-posted next quote"
+            git pull origin main --rebase
             git push origin HEAD:main
             echo "quotes.json updated and pushed successfully."
           else
