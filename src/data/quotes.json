@@ -3,8 +3,8 @@
     "id": 1,
     "title": "Daily Motivation",
     "quote": "The secret of getting ahead is getting started.",
-    "posted": false,
-    "posted_at": null
+    "posted": true,
+    "posted_at": "2026-07-20T12:00:00.000Z"
   },
   {
     "id": 2,
@@ -416,6 +416,426 @@
     "id": 60,
     "title": "Wisdom",
     "quote": "Live in a way that your future self will thank you.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 61,
+    "title": "Daily Motivation",
+    "quote": "You don't have to be great to start, but you have to start to be great.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 62,
+    "title": "Life Lesson",
+    "quote": "The people who are crazy enough to think they can change the world are the ones who do.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 63,
+    "title": "Mindset",
+    "quote": "Stop waiting for the perfect moment. Take the moment and make it perfect.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 64,
+    "title": "Success",
+    "quote": "Winners are not people who never fail, but people who never quit.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 65,
+    "title": "Deep Thought",
+    "quote": "The version of you that showed up today is already stronger than yesterday.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 66,
+    "title": "Wisdom",
+    "quote": "You cannot pour from an empty cup. Take care of yourself first.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 67,
+    "title": "Daily Motivation",
+    "quote": "Chase the vision, not the applause.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 68,
+    "title": "Life Lesson",
+    "quote": "The bridge between where you are and where you want to be is called work.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 69,
+    "title": "Mindset",
+    "quote": "Your attitude determines your direction.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 70,
+    "title": "Success",
+    "quote": "Talent gets you noticed. Discipline gets you results.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 71,
+    "title": "Deep Thought",
+    "quote": "What you think about yourself is far more powerful than what others think of you.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 72,
+    "title": "Wisdom",
+    "quote": "Burn the ship. Growth has no reverse gear.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 73,
+    "title": "Daily Motivation",
+    "quote": "Every morning is a new opportunity to become better than you were yesterday.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 74,
+    "title": "Life Lesson",
+    "quote": "Not all storms come to disrupt your life. Some come to clear your path.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 75,
+    "title": "Mindset",
+    "quote": "A strong mind is worth more than a full wallet.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 76,
+    "title": "Success",
+    "quote": "The grind never lies. It always delivers.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 77,
+    "title": "Deep Thought",
+    "quote": "Silence is the loudest answer you will ever hear.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 78,
+    "title": "Wisdom",
+    "quote": "Surround yourself with people who remind you of who you want to become.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 79,
+    "title": "Daily Motivation",
+    "quote": "Push yourself because no one else is going to do it for you.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 80,
+    "title": "Life Lesson",
+    "quote": "Reputation is what others think of you. Character is what you truly are.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 81,
+    "title": "Mindset",
+    "quote": "Energy flows where attention goes. Choose your focus wisely.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 82,
+    "title": "Success",
+    "quote": "One year from now, you will wish you had started today.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 83,
+    "title": "Deep Thought",
+    "quote": "The version of success that fits someone else may not fit you. Build your own.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 84,
+    "title": "Wisdom",
+    "quote": "Accept what you cannot change. Change what you cannot accept.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 85,
+    "title": "Daily Motivation",
+    "quote": "Be the kind of person your younger self would have looked up to.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 86,
+    "title": "Life Lesson",
+    "quote": "Overthinking is the thief of joy and the killer of progress.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 87,
+    "title": "Mindset",
+    "quote": "Discipline is choosing between what you want now and what you want most.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 88,
+    "title": "Success",
+    "quote": "You are always one decision away from a completely different life.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 89,
+    "title": "Deep Thought",
+    "quote": "Pressure doesn't create character — it reveals it.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 90,
+    "title": "Wisdom",
+    "quote": "The wealthiest place on earth is the graveyard — full of unfinished dreams. Don't let yours stay there.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 91,
+    "title": "Daily Motivation",
+    "quote": "Do something today that your future self will be proud of.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 92,
+    "title": "Life Lesson",
+    "quote": "Never let the fear of striking out keep you from playing the game.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 93,
+    "title": "Mindset",
+    "quote": "A lion doesn't lose sleep over the opinion of sheep.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 94,
+    "title": "Success",
+    "quote": "Build the life you want — or someone else will use you to build theirs.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 95,
+    "title": "Deep Thought",
+    "quote": "The real competition is the person in the mirror staring back at you.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 96,
+    "title": "Wisdom",
+    "quote": "Consistency is the proof of commitment. Show up even when it's hard.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 97,
+    "title": "Daily Motivation",
+    "quote": "Great days are built, not found. Build yours.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 98,
+    "title": "Life Lesson",
+    "quote": "Forgive yourself for not knowing what you didn't know before you learned it.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 99,
+    "title": "Mindset",
+    "quote": "Your comfort zone is your cage. Break out of it daily.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 100,
+    "title": "Success",
+    "quote": "Stop shrinking yourself to fit into places you have outgrown.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 101,
+    "title": "Deep Thought",
+    "quote": "Not every chapter of your story needs to be shared. Some lessons are just for you.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 102,
+    "title": "Wisdom",
+    "quote": "Rest when you need to. Quit never.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 103,
+    "title": "Daily Motivation",
+    "quote": "The extra mile is never crowded. Keep going.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 104,
+    "title": "Life Lesson",
+    "quote": "People who judge you have not yet figured out their own life. Keep moving.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 105,
+    "title": "Mindset",
+    "quote": "What you resist persists. What you embrace, you master.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 106,
+    "title": "Success",
+    "quote": "Successful people do what unsuccessful people are not willing to do.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 107,
+    "title": "Deep Thought",
+    "quote": "You were not born to pay bills and die. You were born to leave a mark.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 108,
+    "title": "Wisdom",
+    "quote": "Gratitude turns what you have into enough.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 109,
+    "title": "Daily Motivation",
+    "quote": "Progress, not perfection, is the daily goal.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 110,
+    "title": "Life Lesson",
+    "quote": "Your story is not over. The best chapters are still unwritten.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 111,
+    "title": "Mindset",
+    "quote": "Soft life comes from hard work. There are no shortcuts worth taking.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 112,
+    "title": "Success",
+    "quote": "You don't fail when you fall. You fail when you refuse to rise.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 113,
+    "title": "Deep Thought",
+    "quote": "The loudest voices in the room rarely have the deepest ideas. Think for yourself.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 114,
+    "title": "Wisdom",
+    "quote": "Time spent in self-improvement is never wasted.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 115,
+    "title": "Daily Motivation",
+    "quote": "Your potential is not a destination — it's a direction. Keep heading there.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 116,
+    "title": "Life Lesson",
+    "quote": "What broke you once can become the foundation of what builds you next.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 117,
+    "title": "Mindset",
+    "quote": "A focused mind can move mountains. An unfocused one moves in circles.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 118,
+    "title": "Success",
+    "quote": "Work in silence. Let your results do the talking.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 119,
+    "title": "Deep Thought",
+    "quote": "The life you want is on the other side of the fear you are avoiding.",
+    "posted": false,
+    "posted_at": null
+  },
+  {
+    "id": 120,
+    "title": "Wisdom",
+    "quote": "Build habits that serve your future, not excuses that comfort your present.",
     "posted": false,
     "posted_at": null
   }
