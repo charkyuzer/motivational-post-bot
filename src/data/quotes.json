@@ -381,8 +381,8 @@
     "id": 55,
     "title": "Daily Motivation",
     "quote": "Your greatest asset is the belief that you can improve.",
-    "posted": false,
-    "posted_at": null
+    "posted": true,
+    "posted_at": "2026-07-20T01:01:13.351Z"
   },
   {
     "id": 56,
