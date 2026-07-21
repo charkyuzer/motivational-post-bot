@@ -535,8 +535,8 @@
     "id": 77,
     "title": "Deep Thought",
     "quote": "Silence is the loudest answer you will ever hear.",
-    "posted": false,
-    "posted_at": null
+    "posted": true,
+    "posted_at": "2026-07-21T12:01:04.497Z"
   },
   {
     "id": 78,
