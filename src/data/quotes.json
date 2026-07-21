@@ -507,8 +507,8 @@
     "id": 73,
     "title": "Daily Motivation",
     "quote": "Every morning is a new opportunity to become better than you were yesterday.",
-    "posted": false,
-    "posted_at": null
+    "posted": true,
+    "posted_at": "2026-07-21T07:01:10.284Z"
   },
   {
     "id": 74,
