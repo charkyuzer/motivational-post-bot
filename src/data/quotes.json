@@ -626,8 +626,8 @@
     "id": 90,
     "title": "Wisdom",
     "quote": "The wealthiest place on earth is the graveyard — full of unfinished dreams. Don't let yours stay there.",
-    "posted": false,
-    "posted_at": null
+    "posted": true,
+    "posted_at": "2026-07-22T01:01:00.821Z"
   },
   {
     "id": 91,
