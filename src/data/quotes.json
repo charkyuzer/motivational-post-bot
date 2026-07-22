@@ -675,8 +675,8 @@
     "id": 97,
     "title": "Daily Motivation",
     "quote": "Great days are built, not found. Build yours.",
-    "posted": false,
-    "posted_at": null
+    "posted": true,
+    "posted_at": "2026-07-22T08:01:08.951Z"
   },
   {
     "id": 98,
