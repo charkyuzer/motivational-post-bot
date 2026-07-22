@@ -661,8 +661,8 @@
     "id": 95,
     "title": "Deep Thought",
     "quote": "The real competition is the person in the mirror staring back at you.",
-    "posted": false,
-    "posted_at": null
+    "posted": true,
+    "posted_at": "2026-07-22T06:01:05.540Z"
   },
   {
     "id": 96,
