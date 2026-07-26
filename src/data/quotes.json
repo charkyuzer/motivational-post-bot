@@ -857,8 +857,8 @@
     "id": 123,
     "title": "Success",
     "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": false,
-    "posted_at": null
+    "posted": true,
+    "posted_at": "2026-07-26T17:01:41.666Z"
   },
   {
     "id": 124,
