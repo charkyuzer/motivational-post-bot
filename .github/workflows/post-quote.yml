@@ -3,10 +3,10 @@ name: AutoPost Bluesky Motivation
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'  # har ghante chalega
+    - cron: "0 */6 * * *" # har ghante chalega
   push:
     branches: [main]
-    paths: ['src/data/quotes.json']
+    paths: ["src/data/quotes.json"]
 
 concurrency:
   group: post-quote
@@ -30,8 +30,8 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
-          cache: 'npm'
+          node-version: "20"
+          cache: "npm"
 
       - name: Install dependencies
         run: npm ci
