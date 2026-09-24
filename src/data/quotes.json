@@ -1,3642 +1,1502 @@
 [
   {
-    "id": 1,
+    "id": 521,
     "title": "Daily Motivation",
-    "quote": "The secret of getting ahead is getting started.",
-    "posted": true,
-    "posted_at": "2026-07-20T12:00:00.000Z"
+    "quote": "Wake up with purpose. Go to bed with pride.",
+    "posted": false
   },
   {
-    "id": 2,
-    "title": "Life Lesson",
-    "quote": "Discipline will take you places motivation never can.",
-    "posted": true,
-    "posted_at": "2026-07-17T20:02:01.635Z"
-  },
-  {
-    "id": 3,
-    "title": "Deep Thought",
-    "quote": "Your future is created by what you do today, not tomorrow.",
-    "posted": true,
-    "posted_at": "2026-07-17T21:01:22.245Z"
-  },
-  {
-    "id": 4,
+    "id": 522,
     "title": "Mindset",
-    "quote": "Growth begins where comfort ends.",
-    "posted": true,
-    "posted_at": "2026-07-17T22:01:20.796Z"
+    "quote": "The mind is everything. What you think, you become.",
+    "posted": false
   },
   {
-    "id": 5,
+    "id": 523,
     "title": "Success",
-    "quote": "Small steps repeated daily create extraordinary results.",
-    "posted": true,
-    "posted_at": "2026-07-17T23:01:20.528Z"
+    "quote": "Opportunities don't happen. You create them.",
+    "posted": false
   },
   {
-    "id": 6,
+    "id": 524,
     "title": "Wisdom",
-    "quote": "Time is the one investment you can never earn back.",
-    "posted": true,
-    "posted_at": "2026-07-18T00:01:19.861Z"
+    "quote": "It always seems impossible until it is done.",
+    "posted": false
   },
   {
-    "id": 7,
-    "title": "Daily Motivation",
-    "quote": "Excuses build nothing. Effort builds everything.",
-    "posted": true,
-    "posted_at": "2026-07-18T01:01:44.243Z"
-  },
-  {
-    "id": 8,
-    "title": "Life Lesson",
-    "quote": "The strongest people are built by the hardest seasons.",
-    "posted": true,
-    "posted_at": "2026-07-18T02:01:09.431Z"
-  },
-  {
-    "id": 9,
+    "id": 525,
     "title": "Deep Thought",
-    "quote": "Don't fear failure. Fear never trying.",
-    "posted": true,
-    "posted_at": "2026-07-18T03:01:19.340Z"
+    "quote": "The only way to do great work is to love what you do.",
+    "posted": false
   },
   {
-    "id": 10,
-    "title": "Mindset",
-    "quote": "You become what you repeatedly practice.",
-    "posted": true,
-    "posted_at": "2026-07-18T04:02:14.773Z"
-  },
-  {
-    "id": 11,
-    "title": "Success",
-    "quote": "Patience is not waiting. It is working while waiting.",
-    "posted": true,
-    "posted_at": "2026-07-18T05:01:36.474Z"
-  },
-  {
-    "id": 12,
-    "title": "Wisdom",
-    "quote": "A calm mind sees opportunities that panic never will.",
-    "posted": true,
-    "posted_at": "2026-07-18T05:54:16.276Z"
-  },
-  {
-    "id": 13,
-    "title": "Daily Motivation",
-    "quote": "Every expert was once a beginner who refused to quit.",
-    "posted": true,
-    "posted_at": "2026-07-18T07:01:13.227Z"
-  },
-  {
-    "id": 14,
+    "id": 526,
     "title": "Life Lesson",
-    "quote": "Your habits write the story your goals only imagine.",
-    "posted": true,
-    "posted_at": "2026-07-18T08:01:15.743Z"
+    "quote": "In the middle of every difficulty lies opportunity.",
+    "posted": false
   },
   {
-    "id": 15,
+    "id": 527,
+    "title": "Growth",
+    "quote": "You are never too old to set another goal or dream a new dream.",
+    "posted": false
+  },
+  {
+    "id": 528,
+    "title": "Daily Motivation",
+    "quote": "Believe you can and you are halfway there.",
+    "posted": false
+  },
+  {
+    "id": 529,
+    "title": "Mindset",
+    "quote": "It does not matter how slowly you go as long as you do not stop.",
+    "posted": false
+  },
+  {
+    "id": 530,
+    "title": "Success",
+    "quote": "Act as if what you do makes a difference. It does.",
+    "posted": false
+  },
+  {
+    "id": 531,
+    "title": "Wisdom",
+    "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "posted": false
+  },
+  {
+    "id": 532,
     "title": "Deep Thought",
-    "quote": "Silence often teaches what noise never can.",
-    "posted": true,
-    "posted_at": "2026-07-18T09:02:17.791Z"
+    "quote": "You miss 100% of the shots you don't take.",
+    "posted": false
   },
   {
-    "id": 16,
-    "title": "Mindset",
-    "quote": "The pain of discipline weighs less than the pain of regret.",
-    "posted": true,
-    "posted_at": "2026-07-18T10:02:30.621Z"
-  },
-  {
-    "id": 17,
-    "title": "Success",
-    "quote": "Success is earned in private before it is seen in public.",
-    "posted": true,
-    "posted_at": "2026-07-18T11:02:20.606Z"
-  },
-  {
-    "id": 18,
-    "title": "Wisdom",
-    "quote": "Protect your peace more than your pride.",
-    "posted": true,
-    "posted_at": "2026-07-18T12:02:05.548Z"
-  },
-  {
-    "id": 19,
-    "title": "Daily Motivation",
-    "quote": "One good decision today changes countless tomorrows.",
-    "posted": true,
-    "posted_at": "2026-07-18T13:02:13.032Z"
-  },
-  {
-    "id": 20,
+    "id": 533,
     "title": "Life Lesson",
-    "quote": "The mountain looks impossible until you start climbing.",
-    "posted": true,
-    "posted_at": "2026-07-18T14:02:21.697Z"
+    "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+    "posted": false
   },
   {
-    "id": 21,
+    "id": 534,
+    "title": "Growth",
+    "quote": "Strive not to be a success, but rather to be of value.",
+    "posted": false
+  },
+  {
+    "id": 535,
+    "title": "Daily Motivation",
+    "quote": "I find that the harder I work, the more luck I seem to have.",
+    "posted": false
+  },
+  {
+    "id": 536,
+    "title": "Mindset",
+    "quote": "Don't watch the clock. Do what it does — keep going.",
+    "posted": false
+  },
+  {
+    "id": 537,
+    "title": "Success",
+    "quote": "Whether you think you can or think you can't, you are right.",
+    "posted": false
+  },
+  {
+    "id": 538,
+    "title": "Wisdom",
+    "quote": "Too many of us are not living our dreams because we are living our fears.",
+    "posted": false
+  },
+  {
+    "id": 539,
     "title": "Deep Thought",
-    "quote": "Your character speaks louder than your words.",
-    "posted": true,
-    "posted_at": "2026-07-18T15:02:15.767Z"
+    "quote": "The secret of success is to do the common thing uncommonly well.",
+    "posted": false
   },
   {
-    "id": 22,
-    "title": "Mindset",
-    "quote": "Doubt kills more dreams than failure ever will.",
-    "posted": true,
-    "posted_at": "2026-07-18T16:02:11.237Z"
-  },
-  {
-    "id": 23,
-    "title": "Success",
-    "quote": "Hard work whispers before success makes noise.",
-    "posted": true,
-    "posted_at": "2026-07-18T17:02:17.840Z"
-  },
-  {
-    "id": 24,
-    "title": "Wisdom",
-    "quote": "Be patient with results but impatient with excuses.",
-    "posted": true,
-    "posted_at": "2026-07-18T18:01:53.594Z"
-  },
-  {
-    "id": 25,
-    "title": "Daily Motivation",
-    "quote": "Focus on progress, not perfection.",
-    "posted": true,
-    "posted_at": "2026-07-18T19:01:51.904Z"
-  },
-  {
-    "id": 26,
+    "id": 540,
     "title": "Life Lesson",
-    "quote": "Every sunrise is another chance to rewrite your story.",
-    "posted": true,
-    "posted_at": "2026-07-18T20:02:09.338Z"
+    "quote": "I have not failed. I have just found 10,000 ways that won't work.",
+    "posted": false
   },
   {
-    "id": 27,
+    "id": 541,
+    "title": "Growth",
+    "quote": "A person who never made a mistake never tried anything new.",
+    "posted": false
+  },
+  {
+    "id": 542,
+    "title": "Daily Motivation",
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "posted": false
+  },
+  {
+    "id": 543,
+    "title": "Mindset",
+    "quote": "Do not go where the path may lead. Go instead where there is no path and leave a trail.",
+    "posted": false
+  },
+  {
+    "id": 544,
+    "title": "Success",
+    "quote": "You become what you believe.",
+    "posted": false
+  },
+  {
+    "id": 545,
+    "title": "Wisdom",
+    "quote": "The two most important days in your life are the day you are born and the day you find out why.",
+    "posted": false
+  },
+  {
+    "id": 546,
     "title": "Deep Thought",
-    "quote": "The quality of your life depends on the quality of your choices.",
-    "posted": true,
-    "posted_at": "2026-07-18T21:02:15.523Z"
+    "quote": "Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did.",
+    "posted": false
   },
   {
-    "id": 28,
-    "title": "Mindset",
-    "quote": "Strength grows quietly while comfort grows loudly.",
-    "posted": true,
-    "posted_at": "2026-07-18T22:02:19.456Z"
-  },
-  {
-    "id": 29,
-    "title": "Success",
-    "quote": "Great things take time. Keep showing up.",
-    "posted": true,
-    "posted_at": "2026-07-18T23:02:14.827Z"
-  },
-  {
-    "id": 30,
-    "title": "Wisdom",
-    "quote": "Your greatest competition is who you were yesterday.",
-    "posted": true,
-    "posted_at": "2026-07-19T00:02:15.431Z"
-  },
-  {
-    "id": 31,
-    "title": "Daily Motivation",
-    "quote": "Dreams demand action, not excuses.",
-    "posted": true,
-    "posted_at": "2026-07-19T01:02:24.650Z"
-  },
-  {
-    "id": 32,
+    "id": 547,
     "title": "Life Lesson",
-    "quote": "Respect is earned through consistency, not promises.",
-    "posted": true,
-    "posted_at": "2026-07-19T02:02:13.126Z"
+    "quote": "Life is what happens when you are busy making other plans.",
+    "posted": false
   },
   {
-    "id": 33,
+    "id": 548,
+    "title": "Growth",
+    "quote": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+    "posted": false
+  },
+  {
+    "id": 549,
+    "title": "Daily Motivation",
+    "quote": "When you reach the end of your rope, tie a knot in it and hang on.",
+    "posted": false
+  },
+  {
+    "id": 550,
+    "title": "Mindset",
+    "quote": "Always remember that you are absolutely unique. Just like everyone else.",
+    "posted": false
+  },
+  {
+    "id": 551,
+    "title": "Success",
+    "quote": "Do not go where the path may lead. Go instead where there is no path and leave a trail.",
+    "posted": false
+  },
+  {
+    "id": 552,
+    "title": "Wisdom",
+    "quote": "You will face many defeats in life, but never let yourself be defeated.",
+    "posted": false
+  },
+  {
+    "id": 553,
     "title": "Deep Thought",
-    "quote": "The hardest battles are often fought within.",
-    "posted": true,
-    "posted_at": "2026-07-19T03:01:35.550Z"
+    "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "posted": false
   },
   {
-    "id": 34,
-    "title": "Mindset",
-    "quote": "The person you become matters more than what you achieve.",
-    "posted": true,
-    "posted_at": "2026-07-19T04:02:44.782Z"
-  },
-  {
-    "id": 35,
-    "title": "Success",
-    "quote": "Consistency beats intensity every single time.",
-    "posted": true,
-    "posted_at": "2026-07-19T05:02:24.118Z"
-  },
-  {
-    "id": 36,
-    "title": "Wisdom",
-    "quote": "Life rewards those who stay when others quit.",
-    "posted": true,
-    "posted_at": "2026-07-19T06:01:53.701Z"
-  },
-  {
-    "id": 37,
-    "title": "Daily Motivation",
-    "quote": "The comeback is always stronger than the setback.",
-    "posted": true,
-    "posted_at": "2026-07-19T07:01:16.378Z"
-  },
-  {
-    "id": 38,
+    "id": 554,
     "title": "Life Lesson",
-    "quote": "A grateful heart sees abundance everywhere.",
-    "posted": true,
-    "posted_at": "2026-07-19T08:02:37.811Z"
+    "quote": "In the end, it's not the years in your life that count. It's the life in your years.",
+    "posted": false
   },
   {
-    "id": 39,
-    "title": "Deep Thought",
-    "quote": "Peace comes when you stop chasing what isn't meant for you.",
-    "posted": true,
-    "posted_at": "2026-07-19T09:01:42.879Z"
-  },
-  {
-    "id": 40,
-    "title": "Mindset",
-    "quote": "Success begins with believing you are capable.",
-    "posted": true,
-    "posted_at": "2026-07-19T10:02:18.967Z"
-  },
-  {
-    "id": 41,
-    "title": "Success",
-    "quote": "Your limits are often opinions, not facts.",
-    "posted": true,
-    "posted_at": "2026-07-19T11:02:25.187Z"
-  },
-  {
-    "id": 42,
-    "title": "Wisdom",
-    "quote": "Kindness costs little but changes everything.",
-    "posted": true,
-    "posted_at": "2026-07-19T12:01:53.452Z"
-  },
-  {
-    "id": 43,
-    "title": "Daily Motivation",
-    "quote": "Every challenge hides an opportunity to grow.",
-    "posted": true,
-    "posted_at": "2026-07-19T13:02:14.927Z"
-  },
-  {
-    "id": 44,
-    "title": "Life Lesson",
-    "quote": "The strongest roots grow in the darkest soil.",
-    "posted": true,
-    "posted_at": "2026-07-19T14:02:23.500Z"
-  },
-  {
-    "id": 45,
-    "title": "Deep Thought",
-    "quote": "Your mindset shapes the world you experience.",
-    "posted": true,
-    "posted_at": "2026-07-19T15:02:04.326Z"
-  },
-  {
-    "id": 46,
-    "title": "Mindset",
-    "quote": "Do what is right even when no one is watching.",
-    "posted": true,
-    "posted_at": "2026-07-19T16:01:55.857Z"
-  },
-  {
-    "id": 47,
-    "title": "Success",
-    "quote": "Courage is moving forward despite the fear.",
-    "posted": true,
-    "posted_at": "2026-07-19T17:01:07.724Z"
-  },
-  {
-    "id": 48,
-    "title": "Wisdom",
-    "quote": "The best investment is improving yourself.",
-    "posted": true,
-    "posted_at": "2026-07-19T18:02:09.516Z"
-  },
-  {
-    "id": 49,
-    "title": "Daily Motivation",
-    "quote": "Success follows those who refuse to stop learning.",
-    "posted": true,
-    "posted_at": "2026-07-19T19:01:06.931Z"
-  },
-  {
-    "id": 50,
-    "title": "Life Lesson",
-    "quote": "Your actions introduce you before your words ever do.",
-    "posted": true,
-    "posted_at": "2026-07-19T19:59:23.806Z"
-  },
-  {
-    "id": 51,
-    "title": "Deep Thought",
-    "quote": "Sometimes letting go is the bravest decision.",
-    "posted": true,
-    "posted_at": "2026-07-19T21:02:12.156Z"
-  },
-  {
-    "id": 52,
-    "title": "Mindset",
-    "quote": "The future belongs to those who prepare for it today.",
-    "posted": true,
-    "posted_at": "2026-07-19T22:01:41.027Z"
-  },
-  {
-    "id": 53,
-    "title": "Success",
-    "quote": "The journey changes you more than the destination.",
-    "posted": true,
-    "posted_at": "2026-07-19T23:02:07.452Z"
-  },
-  {
-    "id": 54,
-    "title": "Wisdom",
-    "quote": "Confidence is built by keeping promises to yourself.",
-    "posted": true,
-    "posted_at": "2026-07-20T00:01:18.076Z"
-  },
-  {
-    "id": 55,
-    "title": "Daily Motivation",
-    "quote": "Your greatest asset is the belief that you can improve.",
-    "posted": true,
-    "posted_at": "2026-07-20T01:01:13.351Z"
-  },
-  {
-    "id": 56,
-    "title": "Life Lesson",
-    "quote": "What you tolerate today becomes your reality tomorrow.",
-    "posted": true,
-    "posted_at": "2026-07-20T02:01:12.377Z"
-  },
-  {
-    "id": 57,
-    "title": "Deep Thought",
-    "quote": "A meaningful life is built one intentional day at a time.",
-    "posted": true,
-    "posted_at": "2026-07-20T03:01:11.578Z"
-  },
-  {
-    "id": 58,
-    "title": "Mindset",
-    "quote": "Keep going. The person you want to become is waiting ahead.",
-    "posted": true,
-    "posted_at": "2026-07-20T04:01:08.826Z"
-  },
-  {
-    "id": 59,
-    "title": "Success",
-    "quote": "Success starts when excuses end.",
-    "posted": true,
-    "posted_at": "2026-07-20T05:02:13.008Z"
-  },
-  {
-    "id": 60,
-    "title": "Wisdom",
-    "quote": "Live in a way that your future self will thank you.",
-    "posted": true,
-    "posted_at": "2026-07-20T17:54:29.876Z"
-  },
-  {
-    "id": 61,
-    "title": "Daily Motivation",
-    "quote": "You don't have to be great to start, but you have to start to be great.",
-    "posted": true,
-    "posted_at": "2026-07-20T19:01:07.945Z"
-  },
-  {
-    "id": 62,
-    "title": "Life Lesson",
-    "quote": "The people who are crazy enough to think they can change the world are the ones who do.",
-    "posted": true,
-    "posted_at": "2026-07-20T20:01:06.864Z"
-  },
-  {
-    "id": 63,
-    "title": "Mindset",
-    "quote": "Stop waiting for the perfect moment. Take the moment and make it perfect.",
-    "posted": true,
-    "posted_at": "2026-07-20T20:55:50.432Z"
-  },
-  {
-    "id": 64,
-    "title": "Success",
-    "quote": "Winners are not people who never fail, but people who never quit.",
-    "posted": true,
-    "posted_at": "2026-07-20T22:01:16.586Z"
-  },
-  {
-    "id": 65,
-    "title": "Deep Thought",
-    "quote": "The version of you that showed up today is already stronger than yesterday.",
-    "posted": true,
-    "posted_at": "2026-07-20T23:01:11.382Z"
-  },
-  {
-    "id": 66,
-    "title": "Wisdom",
-    "quote": "You cannot pour from an empty cup. Take care of yourself first.",
-    "posted": true,
-    "posted_at": "2026-07-21T00:01:14.202Z"
-  },
-  {
-    "id": 67,
-    "title": "Daily Motivation",
-    "quote": "Chase the vision, not the applause.",
-    "posted": true,
-    "posted_at": "2026-07-21T01:01:06.840Z"
-  },
-  {
-    "id": 68,
-    "title": "Life Lesson",
-    "quote": "The bridge between where you are and where you want to be is called work.",
-    "posted": true,
-    "posted_at": "2026-07-21T02:01:03.861Z"
-  },
-  {
-    "id": 69,
-    "title": "Mindset",
-    "quote": "Your attitude determines your direction.",
-    "posted": true,
-    "posted_at": "2026-07-21T03:01:05.371Z"
-  },
-  {
-    "id": 70,
-    "title": "Success",
-    "quote": "Talent gets you noticed. Discipline gets you results.",
-    "posted": true,
-    "posted_at": "2026-07-21T04:01:09.785Z"
-  },
-  {
-    "id": 71,
-    "title": "Deep Thought",
-    "quote": "What you think about yourself is far more powerful than what others think of you.",
-    "posted": true,
-    "posted_at": "2026-07-21T05:01:05.965Z"
-  },
-  {
-    "id": 72,
-    "title": "Wisdom",
-    "quote": "Burn the ship. Growth has no reverse gear.",
-    "posted": true,
-    "posted_at": "2026-07-21T06:01:09.519Z"
-  },
-  {
-    "id": 73,
-    "title": "Daily Motivation",
-    "quote": "Every morning is a new opportunity to become better than you were yesterday.",
-    "posted": true,
-    "posted_at": "2026-07-21T07:01:10.284Z"
-  },
-  {
-    "id": 74,
-    "title": "Life Lesson",
-    "quote": "Not all storms come to disrupt your life. Some come to clear your path.",
-    "posted": true,
-    "posted_at": "2026-07-21T09:01:07.746Z"
-  },
-  {
-    "id": 75,
-    "title": "Mindset",
-    "quote": "A strong mind is worth more than a full wallet.",
-    "posted": true,
-    "posted_at": "2026-07-21T10:01:12.168Z"
-  },
-  {
-    "id": 76,
-    "title": "Success",
-    "quote": "The grind never lies. It always delivers.",
-    "posted": true,
-    "posted_at": "2026-07-21T11:01:03.230Z"
-  },
-  {
-    "id": 77,
-    "title": "Deep Thought",
-    "quote": "Silence is the loudest answer you will ever hear.",
-    "posted": true,
-    "posted_at": "2026-07-21T12:01:04.497Z"
-  },
-  {
-    "id": 78,
-    "title": "Wisdom",
-    "quote": "Surround yourself with people who remind you of who you want to become.",
-    "posted": true,
-    "posted_at": "2026-07-21T13:01:13.868Z"
-  },
-  {
-    "id": 79,
-    "title": "Daily Motivation",
-    "quote": "Push yourself because no one else is going to do it for you.",
-    "posted": true,
-    "posted_at": "2026-07-21T14:01:19.978Z"
-  },
-  {
-    "id": 80,
-    "title": "Life Lesson",
-    "quote": "Reputation is what others think of you. Character is what you truly are.",
-    "posted": true,
-    "posted_at": "2026-07-21T15:01:08.153Z"
-  },
-  {
-    "id": 81,
-    "title": "Mindset",
-    "quote": "Energy flows where attention goes. Choose your focus wisely.",
-    "posted": true,
-    "posted_at": "2026-07-21T16:01:11.301Z"
-  },
-  {
-    "id": 82,
-    "title": "Success",
-    "quote": "One year from now, you will wish you had started today.",
-    "posted": true,
-    "posted_at": "2026-07-21T17:01:03.086Z"
-  },
-  {
-    "id": 83,
-    "title": "Deep Thought",
-    "quote": "The version of success that fits someone else may not fit you. Build your own.",
-    "posted": true,
-    "posted_at": "2026-07-21T18:01:09.580Z"
-  },
-  {
-    "id": 84,
-    "title": "Wisdom",
-    "quote": "Accept what you cannot change. Change what you cannot accept.",
-    "posted": true,
-    "posted_at": "2026-07-21T19:01:04.497Z"
-  },
-  {
-    "id": 85,
-    "title": "Daily Motivation",
-    "quote": "Be the kind of person your younger self would have looked up to.",
-    "posted": true,
-    "posted_at": "2026-07-21T20:01:05.275Z"
-  },
-  {
-    "id": 86,
-    "title": "Life Lesson",
-    "quote": "Overthinking is the thief of joy and the killer of progress.",
-    "posted": true,
-    "posted_at": "2026-07-21T20:49:35.965Z"
-  },
-  {
-    "id": 87,
-    "title": "Mindset",
-    "quote": "Discipline is choosing between what you want now and what you want most.",
-    "posted": true,
-    "posted_at": "2026-07-21T22:01:06.140Z"
-  },
-  {
-    "id": 88,
-    "title": "Success",
-    "quote": "You are always one decision away from a completely different life.",
-    "posted": true,
-    "posted_at": "2026-07-21T23:01:05.260Z"
-  },
-  {
-    "id": 89,
-    "title": "Deep Thought",
-    "quote": "Pressure doesn't create character — it reveals it.",
-    "posted": true,
-    "posted_at": "2026-07-22T00:01:06.360Z"
-  },
-  {
-    "id": 90,
-    "title": "Wisdom",
-    "quote": "The wealthiest place on earth is the graveyard — full of unfinished dreams. Don't let yours stay there.",
-    "posted": true,
-    "posted_at": "2026-07-22T01:01:00.821Z"
-  },
-  {
-    "id": 91,
-    "title": "Daily Motivation",
-    "quote": "Do something today that your future self will be proud of.",
-    "posted": true,
-    "posted_at": "2026-07-22T02:01:02.503Z"
-  },
-  {
-    "id": 92,
-    "title": "Life Lesson",
+    "id": 555,
+    "title": "Growth",
     "quote": "Never let the fear of striking out keep you from playing the game.",
-    "posted": true,
-    "posted_at": "2026-07-22T03:01:04.522Z"
+    "posted": false
   },
   {
-    "id": 93,
-    "title": "Mindset",
-    "quote": "A lion doesn't lose sleep over the opinion of sheep.",
-    "posted": true,
-    "posted_at": "2026-07-22T04:01:00.993Z"
-  },
-  {
-    "id": 94,
-    "title": "Success",
-    "quote": "Build the life you want — or someone else will use you to build theirs.",
-    "posted": true,
-    "posted_at": "2026-07-22T05:01:00.033Z"
-  },
-  {
-    "id": 95,
-    "title": "Deep Thought",
-    "quote": "The real competition is the person in the mirror staring back at you.",
-    "posted": true,
-    "posted_at": "2026-07-22T06:01:05.540Z"
-  },
-  {
-    "id": 96,
-    "title": "Wisdom",
-    "quote": "Consistency is the proof of commitment. Show up even when it's hard.",
-    "posted": true,
-    "posted_at": "2026-07-22T07:01:00.129Z"
-  },
-  {
-    "id": 97,
+    "id": 556,
     "title": "Daily Motivation",
-    "quote": "Great days are built, not found. Build yours.",
-    "posted": true,
-    "posted_at": "2026-07-22T08:01:08.951Z"
+    "quote": "Life is either a daring adventure or nothing at all.",
+    "posted": false
   },
   {
-    "id": 98,
-    "title": "Life Lesson",
-    "quote": "Forgive yourself for not knowing what you didn't know before you learned it.",
-    "posted": true,
-    "posted_at": "2026-07-22T09:01:10.531Z"
-  },
-  {
-    "id": 99,
+    "id": 557,
     "title": "Mindset",
-    "quote": "Your comfort zone is your cage. Break out of it daily.",
-    "posted": true,
-    "posted_at": "2026-07-22T10:01:05.273Z"
+    "quote": "Many of life's failures are people who did not realize how close they were to success when they gave up.",
+    "posted": false
   },
   {
-    "id": 100,
+    "id": 558,
     "title": "Success",
-    "quote": "Stop shrinking yourself to fit into places you have outgrown.",
-    "posted": true,
-    "posted_at": "2026-07-22T11:01:05.200Z"
+    "quote": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
+    "posted": false
   },
   {
-    "id": 101,
-    "title": "Deep Thought",
-    "quote": "Not every chapter of your story needs to be shared. Some lessons are just for you.",
-    "posted": true,
-    "posted_at": "2026-07-22T12:01:09.671Z"
-  },
-  {
-    "id": 102,
+    "id": 559,
     "title": "Wisdom",
-    "quote": "Rest when you need to. Quit never.",
-    "posted": true,
-    "posted_at": "2026-07-22T13:01:07.663Z"
+    "quote": "If life were predictable it would cease to be life and be without flavor.",
+    "posted": false
   },
   {
-    "id": 103,
+    "id": 560,
+    "title": "Deep Thought",
+    "quote": "If you look at what you have in life, you'll always have more.",
+    "posted": false
+  },
+  {
+    "id": 561,
+    "title": "Life Lesson",
+    "quote": "If you want to live a happy life, tie it to a goal, not to people or things.",
+    "posted": false
+  },
+  {
+    "id": 562,
+    "title": "Growth",
+    "quote": "Never let the fear of striking out keep you from playing the game.",
+    "posted": false
+  },
+  {
+    "id": 563,
     "title": "Daily Motivation",
-    "quote": "The extra mile is never crowded. Keep going.",
-    "posted": true,
-    "posted_at": "2026-07-22T14:01:10.405Z"
+    "quote": "Money and success don't change people; they merely amplify what is already there.",
+    "posted": false
   },
   {
-    "id": 104,
-    "title": "Life Lesson",
-    "quote": "People who judge you have not yet figured out their own life. Keep moving.",
-    "posted": true,
-    "posted_at": "2026-07-22T15:01:07.075Z"
-  },
-  {
-    "id": 105,
+    "id": 564,
     "title": "Mindset",
-    "quote": "What you resist persists. What you embrace, you master.",
-    "posted": true,
-    "posted_at": "2026-07-22T16:01:12.802Z"
+    "quote": "Your time is limited, so don't waste it living someone else's life.",
+    "posted": false
   },
   {
-    "id": 106,
+    "id": 565,
     "title": "Success",
-    "quote": "Successful people do what unsuccessful people are not willing to do.",
-    "posted": true,
-    "posted_at": "2026-07-22T17:01:08.340Z"
+    "quote": "Not how long, but how well you have lived is the main thing.",
+    "posted": false
   },
   {
-    "id": 107,
-    "title": "Deep Thought",
-    "quote": "You were not born to pay bills and die. You were born to leave a mark.",
-    "posted": true,
-    "posted_at": "2026-07-22T18:01:08.057Z"
-  },
-  {
-    "id": 108,
+    "id": 566,
     "title": "Wisdom",
-    "quote": "Gratitude turns what you have into enough.",
-    "posted": true,
-    "posted_at": "2026-07-22T19:01:09.961Z"
+    "quote": "If you are not willing to risk the usual, you will have to settle for the ordinary.",
+    "posted": false
   },
   {
-    "id": 109,
+    "id": 567,
+    "title": "Deep Thought",
+    "quote": "All our dreams can come true, if we have the courage to pursue them.",
+    "posted": false
+  },
+  {
+    "id": 568,
+    "title": "Life Lesson",
+    "quote": "It is during our darkest moments that we must focus to see the light.",
+    "posted": false
+  },
+  {
+    "id": 569,
+    "title": "Growth",
+    "quote": "Whoever is happy will make others happy too.",
+    "posted": false
+  },
+  {
+    "id": 570,
     "title": "Daily Motivation",
-    "quote": "Progress, not perfection, is the daily goal.",
-    "posted": true,
-    "posted_at": "2026-07-22T20:01:02.752Z"
+    "quote": "Do not let making a living prevent you from making a life.",
+    "posted": false
   },
   {
-    "id": 110,
-    "title": "Life Lesson",
-    "quote": "Your story is not over. The best chapters are still unwritten.",
-    "posted": true,
-    "posted_at": "2026-07-22T21:01:09.820Z"
-  },
-  {
-    "id": 111,
+    "id": 571,
     "title": "Mindset",
-    "quote": "Soft life comes from hard work. There are no shortcuts worth taking.",
-    "posted": true,
-    "posted_at": "2026-07-22T22:01:07.069Z"
+    "quote": "The harder the struggle, the more glorious the triumph.",
+    "posted": false
   },
   {
-    "id": 112,
+    "id": 572,
     "title": "Success",
-    "quote": "You don't fail when you fall. You fail when you refuse to rise.",
-    "posted": true,
-    "posted_at": "2026-07-22T23:01:03.626Z"
+    "quote": "Don't count the days. Make the days count.",
+    "posted": false
   },
   {
-    "id": 113,
-    "title": "Deep Thought",
-    "quote": "The loudest voices in the room rarely have the deepest ideas. Think for yourself.",
-    "posted": true,
-    "posted_at": "2026-07-23T00:01:06.784Z"
-  },
-  {
-    "id": 114,
+    "id": 573,
     "title": "Wisdom",
-    "quote": "Time spent in self-improvement is never wasted.",
-    "posted": true,
-    "posted_at": "2026-07-23T01:01:03.369Z"
+    "quote": "He who has a why to live can bear almost any how.",
+    "posted": false
   },
   {
-    "id": 115,
+    "id": 574,
+    "title": "Deep Thought",
+    "quote": "The unexamined life is not worth living.",
+    "posted": false
+  },
+  {
+    "id": 575,
+    "title": "Life Lesson",
+    "quote": "Turn your wounds into wisdom.",
+    "posted": false
+  },
+  {
+    "id": 576,
+    "title": "Growth",
+    "quote": "You must be the change you wish to see in the world.",
+    "posted": false
+  },
+  {
+    "id": 577,
     "title": "Daily Motivation",
-    "quote": "Your potential is not a destination — it's a direction. Keep heading there.",
-    "posted": true,
-    "posted_at": "2026-07-23T02:01:02.447Z"
+    "quote": "Start where you are. Use what you have. Do what you can.",
+    "posted": false
   },
   {
-    "id": 116,
-    "title": "Life Lesson",
-    "quote": "What broke you once can become the foundation of what builds you next.",
-    "posted": true,
-    "posted_at": "2026-07-23T03:01:04.387Z"
-  },
-  {
-    "id": 117,
+    "id": 578,
     "title": "Mindset",
-    "quote": "A focused mind can move mountains. An unfocused one moves in circles.",
-    "posted": true,
-    "posted_at": "2026-07-23T04:00:59.807Z"
+    "quote": "It is not the mountain we conquer, but ourselves.",
+    "posted": false
   },
   {
-    "id": 118,
+    "id": 579,
     "title": "Success",
-    "quote": "Work in silence. Let your results do the talking.",
-    "posted": true,
-    "posted_at": "2026-07-23T05:01:17.341Z"
+    "quote": "The secret of getting ahead is getting started.",
+    "posted": false
   },
   {
-    "id": 119,
+    "id": 580,
+    "title": "Wisdom",
+    "quote": "Real change, enduring change, happens one step at a time.",
+    "posted": false
+  },
+  {
+    "id": 581,
     "title": "Deep Thought",
-    "quote": "The life you want is on the other side of the fear you are avoiding.",
-    "posted": true,
-    "posted_at": "2026-07-23T06:01:06.736Z"
+    "quote": "We know what we are, but know not what we may be.",
+    "posted": false
   },
   {
-    "id": 120,
-    "title": "Wisdom",
-    "quote": "Build habits that serve your future, not excuses that comfort your present.",
-    "posted": true,
-    "posted_at": "2026-07-23T07:01:03.950Z"
-  },
-  {
-    "id": 121,
-    "title": "Wisdom",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-07-26T14:32:04.377Z"
+    "id": 582,
+    "title": "Life Lesson",
+    "quote": "To handle yourself, use your head. To handle others, use your heart.",
+    "posted": false
   },
   {
-    "id": 122,
-    "title": "Motivation",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-07-26T16:02:07.413Z"
-  },
-  {
-    "id": 123,
-    "title": "Success",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-07-26T17:01:41.666Z"
+    "id": 583,
+    "title": "Growth",
+    "quote": "Too many people overvalue what they are not and undervalue what they are.",
+    "posted": false
   },
   {
-    "id": 124,
-    "title": "Discipline",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-07-26T18:02:09.410Z"
+    "id": 584,
+    "title": "Daily Motivation",
+    "quote": "If not now, when? If not you, who?",
+    "posted": false
   },
   {
-    "id": 125,
-    "title": "Growth",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-07-26T19:01:03.770Z"
+    "id": 585,
+    "title": "Mindset",
+    "quote": "The only journey is the one within.",
+    "posted": false
   },
   {
-    "id": 126,
-    "title": "Mindset",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-07-26T20:02:33.433Z"
+    "id": 586,
+    "title": "Success",
+    "quote": "Nothing is impossible. The word itself says I'm possible.",
+    "posted": false
   },
   {
-    "id": 127,
+    "id": 587,
     "title": "Wisdom",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-07-26T21:02:11.454Z"
+    "quote": "You can't go back and change the beginning, but you can start where you are and change the ending.",
+    "posted": false
   },
   {
-    "id": 128,
-    "title": "Motivation",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-07-26T22:02:10.819Z"
+    "id": 588,
+    "title": "Deep Thought",
+    "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "posted": false
   },
   {
-    "id": 129,
-    "title": "Success",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-07-26T23:02:16.439Z"
+    "id": 589,
+    "title": "Life Lesson",
+    "quote": "The purpose of our lives is to be happy.",
+    "posted": false
   },
   {
-    "id": 130,
-    "title": "Discipline",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-07-27T00:01:06.115Z"
+    "id": 590,
+    "title": "Growth",
+    "quote": "Get busy living or get busy dying.",
+    "posted": false
   },
   {
-    "id": 131,
-    "title": "Growth",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-07-27T01:01:02.719Z"
+    "id": 591,
+    "title": "Daily Motivation",
+    "quote": "You only live once, but if you do it right, once is enough.",
+    "posted": false
   },
   {
-    "id": 132,
+    "id": 592,
     "title": "Mindset",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-07-27T02:01:00.865Z"
+    "quote": "Be yourself. Everyone else is already taken.",
+    "posted": false
   },
   {
-    "id": 133,
-    "title": "Wisdom",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-07-27T03:01:05.377Z"
+    "id": 593,
+    "title": "Success",
+    "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+    "posted": false
   },
   {
-    "id": 134,
-    "title": "Motivation",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-07-27T06:02:38.857Z"
+    "id": 594,
+    "title": "Wisdom",
+    "quote": "To the mind that is still, the whole universe surrenders.",
+    "posted": false
   },
   {
-    "id": 135,
-    "title": "Success",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-07-27T12:01:05.949Z"
+    "id": 595,
+    "title": "Deep Thought",
+    "quote": "What you get by achieving your goals is not as important as what you become by achieving them.",
+    "posted": false
   },
   {
-    "id": 136,
-    "title": "Discipline",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-07-27T18:01:42.778Z"
+    "id": 596,
+    "title": "Life Lesson",
+    "quote": "Happiness is not something ready made. It comes from your own actions.",
+    "posted": false
   },
   {
-    "id": 137,
+    "id": 597,
     "title": "Growth",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-07-27T21:49:19.649Z"
-  },
-  {
-    "id": 138,
-    "title": "Mindset",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-07-28T00:01:05.463Z"
+    "quote": "First, have a definite, clear practical ideal — a goal, an objective.",
+    "posted": false
   },
   {
-    "id": 139,
-    "title": "Wisdom",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-07-28T06:01:04.380Z"
+    "id": 598,
+    "title": "Daily Motivation",
+    "quote": "The best revenge is massive success.",
+    "posted": false
   },
   {
-    "id": 140,
-    "title": "Motivation",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-07-28T09:49:38.410Z"
+    "id": 599,
+    "title": "Mindset",
+    "quote": "I am not a product of my circumstances. I am a product of my decisions.",
+    "posted": false
   },
   {
-    "id": 141,
+    "id": 600,
     "title": "Success",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-07-28T12:01:11.756Z"
-  },
-  {
-    "id": 142,
-    "title": "Discipline",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-07-28T17:13:11.029Z"
-  },
-  {
-    "id": 143,
-    "title": "Growth",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-07-28T18:01:11.073Z"
-  },
-  {
-    "id": 144,
-    "title": "Mindset",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-07-28T21:46:48.858Z"
+    "quote": "Every strike brings me closer to the next home run.",
+    "posted": false
   },
   {
-    "id": 145,
+    "id": 601,
     "title": "Wisdom",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-07-29T00:01:02.973Z"
+    "quote": "Definiteness of purpose is the starting point of all achievement.",
+    "posted": false
   },
   {
-    "id": 146,
-    "title": "Motivation",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-07-29T06:01:05.200Z"
+    "id": 602,
+    "title": "Deep Thought",
+    "quote": "Life isn't about finding yourself. Life is about creating yourself.",
+    "posted": false
   },
   {
-    "id": 147,
-    "title": "Success",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-07-29T10:14:16.840Z"
+    "id": 603,
+    "title": "Life Lesson",
+    "quote": "Nothing will work unless you do.",
+    "posted": false
   },
   {
-    "id": 148,
-    "title": "Discipline",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-07-29T12:01:05.327Z"
+    "id": 604,
+    "title": "Growth",
+    "quote": "The man who has confidence in himself gains the confidence of others.",
+    "posted": false
   },
   {
-    "id": 149,
-    "title": "Growth",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-07-29T16:53:56.013Z"
+    "id": 605,
+    "title": "Daily Motivation",
+    "quote": "The only way to achieve the impossible is to believe it is possible.",
+    "posted": false
   },
   {
-    "id": 150,
+    "id": 606,
     "title": "Mindset",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-07-29T18:01:08.162Z"
+    "quote": "Knowing is not enough; we must apply. Willing is not enough; we must do.",
+    "posted": false
   },
   {
-    "id": 151,
-    "title": "Wisdom",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-07-29T21:15:55.912Z"
+    "id": 607,
+    "title": "Success",
+    "quote": "Imagination is everything. It is the preview of life's coming attractions.",
+    "posted": false
   },
   {
-    "id": 152,
-    "title": "Motivation",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-07-30T00:01:10.666Z"
+    "id": 608,
+    "title": "Wisdom",
+    "quote": "When I let go of what I am, I become what I might be.",
+    "posted": false
   },
   {
-    "id": 153,
-    "title": "Success",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-07-30T06:01:04.597Z"
+    "id": 609,
+    "title": "Deep Thought",
+    "quote": "The mind is not a vessel to be filled but a fire to be kindled.",
+    "posted": false
   },
   {
-    "id": 154,
-    "title": "Discipline",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-07-30T09:37:50.496Z"
+    "id": 610,
+    "title": "Life Lesson",
+    "quote": "Do what you can, with what you have, where you are.",
+    "posted": false
   },
   {
-    "id": 155,
+    "id": 611,
     "title": "Growth",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-07-30T12:01:03.208Z"
-  },
-  {
-    "id": 156,
-    "title": "Mindset",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-07-30T17:10:06.702Z"
+    "quote": "The secret of change is to focus all your energy not on fighting the old, but on building the new.",
+    "posted": false
   },
   {
-    "id": 157,
-    "title": "Wisdom",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-07-30T18:01:02.127Z"
+    "id": 612,
+    "title": "Daily Motivation",
+    "quote": "Problems are not stop signs, they are guidelines.",
+    "posted": false
   },
   {
-    "id": 158,
-    "title": "Motivation",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-07-30T21:49:37.080Z"
+    "id": 613,
+    "title": "Mindset",
+    "quote": "One day or day one. You decide.",
+    "posted": false
   },
   {
-    "id": 159,
+    "id": 614,
     "title": "Success",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-07-31T00:01:09.391Z"
-  },
-  {
-    "id": 160,
-    "title": "Discipline",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-07-31T06:01:02.690Z"
-  },
-  {
-    "id": 161,
-    "title": "Growth",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-07-31T10:04:58.432Z"
-  },
-  {
-    "id": 162,
-    "title": "Mindset",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-07-31T12:01:11.283Z"
+    "quote": "If you want to fly, give up everything that weighs you down.",
+    "posted": false
   },
   {
-    "id": 163,
+    "id": 615,
     "title": "Wisdom",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-07-31T17:12:21.621Z"
+    "quote": "The only person you are destined to become is the person you decide to be.",
+    "posted": false
   },
   {
-    "id": 164,
-    "title": "Motivation",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-07-31T18:01:09.131Z"
+    "id": 616,
+    "title": "Deep Thought",
+    "quote": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+    "posted": false
   },
   {
-    "id": 165,
-    "title": "Success",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-07-31T21:46:47.202Z"
+    "id": 617,
+    "title": "Life Lesson",
+    "quote": "When everything seems to be going against you, remember that the airplane takes off against the wind.",
+    "posted": false
   },
   {
-    "id": 166,
-    "title": "Discipline",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-01T00:02:18.791Z"
+    "id": 618,
+    "title": "Growth",
+    "quote": "It's not whether you get knocked down, it's whether you get up.",
+    "posted": false
   },
   {
-    "id": 167,
-    "title": "Growth",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-01T06:02:20.056Z"
+    "id": 619,
+    "title": "Daily Motivation",
+    "quote": "If you are going through hell, keep going.",
+    "posted": false
   },
   {
-    "id": 168,
+    "id": 620,
     "title": "Mindset",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-01T07:54:00.150Z"
+    "quote": "We may encounter many defeats but we must not be defeated.",
+    "posted": false
   },
   {
-    "id": 169,
-    "title": "Wisdom",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-01T12:02:25.549Z"
+    "id": 621,
+    "title": "Success",
+    "quote": "Courage is resistance to fear, mastery of fear — not absence of fear.",
+    "posted": false
   },
   {
-    "id": 170,
-    "title": "Motivation",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-01T15:42:43.632Z"
+    "id": 622,
+    "title": "Wisdom",
+    "quote": "Only I can change my life. No one can do it for me.",
+    "posted": false
   },
   {
-    "id": 171,
-    "title": "Success",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-01T18:02:44.215Z"
+    "id": 623,
+    "title": "Deep Thought",
+    "quote": "The question isn't who is going to let me; it's who is going to stop me.",
+    "posted": false
   },
   {
-    "id": 172,
-    "title": "Discipline",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-01T20:39:19.085Z"
+    "id": 624,
+    "title": "Life Lesson",
+    "quote": "Change your thoughts and you change your world.",
+    "posted": false
   },
   {
-    "id": 173,
+    "id": 625,
     "title": "Growth",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-02T00:02:53.019Z"
-  },
-  {
-    "id": 174,
-    "title": "Mindset",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-02T06:08:05.350Z"
+    "quote": "Either you run the day or the day runs you.",
+    "posted": false
   },
   {
-    "id": 175,
-    "title": "Wisdom",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-02T07:55:08.267Z"
+    "id": 626,
+    "title": "Daily Motivation",
+    "quote": "It is never too late to be what you might have been.",
+    "posted": false
   },
   {
-    "id": 176,
-    "title": "Motivation",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-02T12:01:40.655Z"
+    "id": 627,
+    "title": "Mindset",
+    "quote": "A year from now you may wish you had started today.",
+    "posted": false
   },
   {
-    "id": 177,
+    "id": 628,
     "title": "Success",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-02T15:47:09.547Z"
+    "quote": "You don't have to be great to start, but you have to start to be great.",
+    "posted": false
   },
   {
-    "id": 178,
-    "title": "Discipline",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-02T18:01:00.742Z"
-  },
-  {
-    "id": 179,
-    "title": "Growth",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-02T20:39:33.238Z"
-  },
-  {
-    "id": 180,
-    "title": "Mindset",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-03T00:00:59.853Z"
-  },
-  {
-    "id": 181,
+    "id": 629,
     "title": "Wisdom",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-03T06:03:24.507Z"
+    "quote": "The secret to getting ahead is getting started.",
+    "posted": false
   },
   {
-    "id": 182,
-    "title": "Motivation",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-03T12:01:05.060Z"
+    "id": 630,
+    "title": "Deep Thought",
+    "quote": "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+    "posted": false
   },
   {
-    "id": 183,
-    "title": "Success",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-03T18:01:01.467Z"
+    "id": 631,
+    "title": "Life Lesson",
+    "quote": "Everything you've ever wanted is on the other side of fear.",
+    "posted": false
   },
   {
-    "id": 184,
-    "title": "Discipline",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-03T21:51:53.929Z"
+    "id": 632,
+    "title": "Growth",
+    "quote": "The only failure is not to try.",
+    "posted": false
   },
   {
-    "id": 185,
-    "title": "Growth",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-04T00:01:05.342Z"
+    "id": 633,
+    "title": "Daily Motivation",
+    "quote": "Dream big and dare to fail.",
+    "posted": false
   },
   {
-    "id": 186,
+    "id": 634,
     "title": "Mindset",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-04T06:01:03.459Z"
+    "quote": "You are enough. You have enough. You do enough.",
+    "posted": false
   },
   {
-    "id": 187,
-    "title": "Wisdom",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-04T10:15:31.093Z"
+    "id": 635,
+    "title": "Success",
+    "quote": "The difference between ordinary and extraordinary is that little extra.",
+    "posted": false
   },
   {
-    "id": 188,
-    "title": "Motivation",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-04T12:01:12.757Z"
+    "id": 636,
+    "title": "Wisdom",
+    "quote": "Hardships often prepare ordinary people for an extraordinary destiny.",
+    "posted": false
   },
   {
-    "id": 189,
-    "title": "Success",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-04T18:01:15.818Z"
+    "id": 637,
+    "title": "Deep Thought",
+    "quote": "It always seems impossible until it's done.",
+    "posted": false
   },
   {
-    "id": 190,
-    "title": "Discipline",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-05T00:01:06.618Z"
+    "id": 638,
+    "title": "Life Lesson",
+    "quote": "The best way out is always through.",
+    "posted": false
   },
   {
-    "id": 191,
+    "id": 639,
     "title": "Growth",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-05T06:03:18.490Z"
-  },
-  {
-    "id": 192,
-    "title": "Mindset",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-05T10:10:50.649Z"
+    "quote": "Don't limit your challenges. Challenge your limits.",
+    "posted": false
   },
   {
-    "id": 193,
-    "title": "Wisdom",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-05T12:01:02.138Z"
+    "id": 640,
+    "title": "Daily Motivation",
+    "quote": "Keep your face always toward the sunshine and shadows will fall behind you.",
+    "posted": false
   },
   {
-    "id": 194,
-    "title": "Motivation",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-05T17:13:27.505Z"
+    "id": 641,
+    "title": "Mindset",
+    "quote": "What we fear doing most is usually what we most need to do.",
+    "posted": false
   },
   {
-    "id": 195,
+    "id": 642,
     "title": "Success",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-05T18:01:47.520Z"
-  },
-  {
-    "id": 196,
-    "title": "Discipline",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-05T22:18:35.488Z"
-  },
-  {
-    "id": 197,
-    "title": "Growth",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-06T00:01:02.310Z"
-  },
-  {
-    "id": 198,
-    "title": "Mindset",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-06T06:01:05.428Z"
+    "quote": "The road to success and the road to failure are almost exactly the same.",
+    "posted": false
   },
   {
-    "id": 199,
+    "id": 643,
     "title": "Wisdom",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-06T10:14:51.580Z"
+    "quote": "If you want to achieve greatness, stop asking for permission.",
+    "posted": false
   },
   {
-    "id": 200,
-    "title": "Motivation",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-06T12:01:02.748Z"
+    "id": 644,
+    "title": "Deep Thought",
+    "quote": "Things work out best for those who make the best of how things work out.",
+    "posted": false
   },
   {
-    "id": 201,
-    "title": "Success",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-07T00:01:06.525Z"
+    "id": 645,
+    "title": "Life Lesson",
+    "quote": "To live a creative life, we must lose our fear of being wrong.",
+    "posted": false
   },
   {
-    "id": 202,
-    "title": "Discipline",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-07T05:53:41.697Z"
+    "id": 646,
+    "title": "Growth",
+    "quote": "If you are not willing to learn, no one can help you. If you are determined to learn, no one can stop you.",
+    "posted": false
   },
   {
-    "id": 203,
-    "title": "Growth",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-07T09:36:38.619Z"
+    "id": 647,
+    "title": "Daily Motivation",
+    "quote": "The secret of joy in work is contained in one word — excellence.",
+    "posted": false
   },
   {
-    "id": 204,
+    "id": 648,
     "title": "Mindset",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-07T12:01:00.343Z"
+    "quote": "Motivation is what gets you started. Habit is what keeps you going.",
+    "posted": false
   },
   {
-    "id": 205,
-    "title": "Wisdom",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-07T15:11:29.460Z"
+    "id": 649,
+    "title": "Success",
+    "quote": "You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win.",
+    "posted": false
   },
   {
-    "id": 206,
-    "title": "Motivation",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-07T18:02:51.356Z"
+    "id": 650,
+    "title": "Wisdom",
+    "quote": "The will to win, the desire to succeed, the urge to reach your full potential — these are the keys that will unlock the door to personal excellence.",
+    "posted": false
   },
   {
-    "id": 207,
-    "title": "Success",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-07T20:04:39.317Z"
+    "id": 651,
+    "title": "Deep Thought",
+    "quote": "Perfection is not attainable, but if we chase perfection we can catch excellence.",
+    "posted": false
   },
   {
-    "id": 208,
-    "title": "Discipline",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-08T00:00:59.513Z"
+    "id": 652,
+    "title": "Life Lesson",
+    "quote": "Life is 10% what happens to you and 90% how you react to it.",
+    "posted": false
   },
   {
-    "id": 209,
+    "id": 653,
     "title": "Growth",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-08T04:18:00.568Z"
-  },
-  {
-    "id": 210,
-    "title": "Mindset",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-08T06:00:56.783Z"
+    "quote": "The most common way people give up their power is by thinking they don't have any.",
+    "posted": false
   },
   {
-    "id": 211,
-    "title": "Wisdom",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-08T08:06:39.482Z"
+    "id": 654,
+    "title": "Daily Motivation",
+    "quote": "The most difficult thing is the decision to act. The rest is merely tenacity.",
+    "posted": false
   },
   {
-    "id": 212,
-    "title": "Motivation",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-08T12:01:00.687Z"
+    "id": 655,
+    "title": "Mindset",
+    "quote": "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
+    "posted": false
   },
   {
-    "id": 213,
+    "id": 656,
     "title": "Success",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-08T14:06:08.249Z"
-  },
-  {
-    "id": 214,
-    "title": "Discipline",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-08T18:00:57.486Z"
-  },
-  {
-    "id": 215,
-    "title": "Growth",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-08T19:19:04.988Z"
-  },
-  {
-    "id": 216,
-    "title": "Mindset",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-09T00:01:10.828Z"
+    "quote": "When you stop chasing the wrong things, you give the right things a chance to catch you.",
+    "posted": false
   },
   {
-    "id": 217,
+    "id": 657,
     "title": "Wisdom",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-09T04:46:14.335Z"
+    "quote": "You can never cross the ocean until you have the courage to lose sight of the shore.",
+    "posted": false
   },
   {
-    "id": 218,
-    "title": "Motivation",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-09T06:00:59.702Z"
+    "id": 658,
+    "title": "Deep Thought",
+    "quote": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+    "posted": false
   },
   {
-    "id": 219,
-    "title": "Success",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-09T08:09:41.509Z"
+    "id": 659,
+    "title": "Life Lesson",
+    "quote": "Either write something worth reading or do something worth writing.",
+    "posted": false
   },
   {
-    "id": 220,
-    "title": "Discipline",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-09T12:00:58.754Z"
+    "id": 660,
+    "title": "Growth",
+    "quote": "The two most powerful warriors are patience and time.",
+    "posted": false
   },
   {
-    "id": 221,
-    "title": "Growth",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-09T14:07:27.519Z"
+    "id": 661,
+    "title": "Daily Motivation",
+    "quote": "Knowing yourself is the beginning of all wisdom.",
+    "posted": false
   },
   {
-    "id": 222,
+    "id": 662,
     "title": "Mindset",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-09T18:00:57.270Z"
+    "quote": "It does not matter how slowly you go as long as you do not stop.",
+    "posted": false
   },
   {
-    "id": 223,
-    "title": "Wisdom",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-09T19:50:06.618Z"
+    "id": 663,
+    "title": "Success",
+    "quote": "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
+    "posted": false
   },
   {
-    "id": 224,
-    "title": "Motivation",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-10T00:01:01.276Z"
+    "id": 664,
+    "title": "Wisdom",
+    "quote": "You may have to fight a battle more than once to win it.",
+    "posted": false
   },
   {
-    "id": 225,
-    "title": "Success",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-10T05:11:14.271Z"
+    "id": 665,
+    "title": "Deep Thought",
+    "quote": "Never give up, for that is just the place and time that the tide will turn.",
+    "posted": false
   },
   {
-    "id": 226,
-    "title": "Discipline",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-10T06:01:00.995Z"
+    "id": 666,
+    "title": "Life Lesson",
+    "quote": "A winner is a dreamer who never gives up.",
+    "posted": false
   },
   {
-    "id": 227,
+    "id": 667,
     "title": "Growth",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-10T10:40:36.385Z"
+    "quote": "The only way to do great work is to love what you do.",
+    "posted": false
+  },
+  {
+    "id": 668,
+    "title": "Daily Motivation",
+    "quote": "Don't be afraid to give up the good to go for the great.",
+    "posted": false
   },
   {
-    "id": 228,
+    "id": 669,
     "title": "Mindset",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-10T12:01:06.600Z"
+    "quote": "I wake up every morning and think to myself, how far can I push this company in the next 24 hours.",
+    "posted": false
   },
   {
-    "id": 229,
-    "title": "Wisdom",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-10T15:33:20.655Z"
+    "id": 670,
+    "title": "Success",
+    "quote": "If you genuinely want something, don't wait for it — teach yourself to be impatient.",
+    "posted": false
   },
   {
-    "id": 230,
-    "title": "Motivation",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-10T18:01:00.027Z"
+    "id": 671,
+    "title": "Deep Thought",
+    "quote": "The cave you fear to enter holds the treasure you seek.",
+    "posted": false
   },
   {
-    "id": 231,
-    "title": "Success",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-10T20:09:59.401Z"
+    "id": 672,
+    "title": "Life Lesson",
+    "quote": "Don't tell people your plans. Show them your results.",
+    "posted": false
   },
   {
-    "id": 232,
-    "title": "Discipline",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-11T00:01:10.584Z"
+    "id": 673,
+    "title": "Mindset",
+    "quote": "Suffer the pain of discipline or suffer the pain of regret.",
+    "posted": false
   },
   {
-    "id": 233,
+    "id": 674,
     "title": "Growth",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-11T04:51:00.174Z"
+    "quote": "The strongest factor for success is self-esteem: believing you can do it, believing you deserve it.",
+    "posted": false
   },
   {
-    "id": 234,
-    "title": "Mindset",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-11T06:01:02.969Z"
+    "id": 675,
+    "title": "Daily Motivation",
+    "quote": "Stop being afraid of what could go wrong and start being excited about what could go right.",
+    "posted": false
   },
   {
-    "id": 235,
+    "id": 676,
     "title": "Wisdom",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-11T09:35:21.151Z"
-  },
-  {
-    "id": 236,
-    "title": "Motivation",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-11T12:01:07.253Z"
+    "quote": "The expert in anything was once a beginner.",
+    "posted": false
   },
   {
-    "id": 237,
+    "id": 677,
     "title": "Success",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-11T15:30:34.553Z"
+    "quote": "Small daily improvements over time lead to stunning results.",
+    "posted": false
   },
   {
-    "id": 238,
-    "title": "Discipline",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-11T18:01:00.899Z"
+    "id": 678,
+    "title": "Deep Thought",
+    "quote": "Your life does not get better by chance. It gets better by change.",
+    "posted": false
   },
   {
-    "id": 239,
-    "title": "Growth",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-11T20:11:39.805Z"
+    "id": 679,
+    "title": "Life Lesson",
+    "quote": "The tragedy of life is not death, but what we let die inside us while we live.",
+    "posted": false
   },
   {
-    "id": 240,
+    "id": 680,
     "title": "Mindset",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-12T00:01:00.940Z"
-  },
-  {
-    "id": 241,
-    "title": "Wisdom",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-12T05:45:42.254Z"
-  },
-  {
-    "id": 242,
-    "title": "Motivation",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-12T09:47:02.904Z"
-  },
-  {
-    "id": 243,
-    "title": "Success",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-12T12:01:00.704Z"
-  },
-  {
-    "id": 244,
-    "title": "Discipline",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-12T15:30:24.753Z"
+    "quote": "You don't need more time. You need more focus.",
+    "posted": false
   },
   {
-    "id": 245,
+    "id": 681,
     "title": "Growth",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-12T18:01:07.427Z"
+    "quote": "Be stubborn about your goals and flexible about your methods.",
+    "posted": false
   },
   {
-    "id": 246,
-    "title": "Mindset",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-12T20:10:40.741Z"
+    "id": 682,
+    "title": "Daily Motivation",
+    "quote": "Hustle in silence and let your success make the noise.",
+    "posted": false
   },
   {
-    "id": 247,
+    "id": 683,
     "title": "Wisdom",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-13T00:01:00.304Z"
+    "quote": "The man on top of the mountain didn't fall there.",
+    "posted": false
   },
   {
-    "id": 248,
-    "title": "Motivation",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-13T05:50:36.050Z"
-  },
-  {
-    "id": 249,
+    "id": 684,
     "title": "Success",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-13T09:47:14.819Z"
+    "quote": "Don't wish it were easier. Wish you were better.",
+    "posted": false
   },
   {
-    "id": 250,
-    "title": "Discipline",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-13T12:01:06.521Z"
+    "id": 685,
+    "title": "Deep Thought",
+    "quote": "You are the average of the five people you spend the most time with.",
+    "posted": false
   },
   {
-    "id": 251,
-    "title": "Growth",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-13T15:32:13.763Z"
+    "id": 686,
+    "title": "Life Lesson",
+    "quote": "If you want to go fast, go alone. If you want to go far, go together.",
+    "posted": false
   },
   {
-    "id": 252,
+    "id": 687,
     "title": "Mindset",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-13T18:01:08.773Z"
-  },
-  {
-    "id": 253,
-    "title": "Wisdom",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-13T20:03:13.995Z"
-  },
-  {
-    "id": 254,
-    "title": "Motivation",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-14T00:01:07.106Z"
-  },
-  {
-    "id": 255,
-    "title": "Success",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-14T01:47:43.865Z"
-  },
-  {
-    "id": 256,
-    "title": "Discipline",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-14T06:01:01.563Z"
+    "quote": "The only place where success comes before work is in the dictionary.",
+    "posted": false
   },
   {
-    "id": 257,
+    "id": 688,
     "title": "Growth",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-14T07:22:02.669Z"
+    "quote": "Fall seven times, stand up eight.",
+    "posted": false
   },
   {
-    "id": 258,
-    "title": "Mindset",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-14T12:01:03.124Z"
+    "id": 689,
+    "title": "Daily Motivation",
+    "quote": "Your passion is waiting for your courage to catch up.",
+    "posted": false
   },
   {
-    "id": 259,
+    "id": 690,
     "title": "Wisdom",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-14T13:02:28.305Z"
-  },
-  {
-    "id": 260,
-    "title": "Motivation",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-14T18:01:02.310Z"
+    "quote": "Magic is believing in yourself. If you can make that happen, you can make anything happen.",
+    "posted": false
   },
   {
-    "id": 261,
+    "id": 691,
     "title": "Success",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-14T18:51:26.963Z"
+    "quote": "The harder you work for something, the greater you'll feel when you achieve it.",
+    "posted": false
   },
   {
-    "id": 262,
-    "title": "Discipline",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-15T00:01:02.453Z"
+    "id": 692,
+    "title": "Deep Thought",
+    "quote": "Great minds discuss ideas. Average minds discuss events. Small minds discuss people.",
+    "posted": false
   },
   {
-    "id": 263,
-    "title": "Growth",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-15T01:07:23.464Z"
+    "id": 693,
+    "title": "Life Lesson",
+    "quote": "The only person who can pull me down is myself, and I'm not going to let myself pull me down anymore.",
+    "posted": false
   },
   {
-    "id": 264,
+    "id": 694,
     "title": "Mindset",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-15T06:01:00.473Z"
-  },
-  {
-    "id": 265,
-    "title": "Wisdom",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-15T12:00:59.250Z"
+    "quote": "Be so good they can't ignore you.",
+    "posted": false
   },
   {
-    "id": 266,
-    "title": "Motivation",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-15T18:01:02.144Z"
-  },
-  {
-    "id": 267,
-    "title": "Success",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-16T00:00:57.921Z"
-  },
-  {
-    "id": 268,
-    "title": "Discipline",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-16T01:11:15.374Z"
-  },
-  {
-    "id": 269,
+    "id": 695,
     "title": "Growth",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-16T06:01:00.919Z"
+    "quote": "The beautiful thing about learning is that no one can take it away from you.",
+    "posted": false
   },
   {
-    "id": 270,
-    "title": "Mindset",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-16T12:00:55.373Z"
+    "id": 696,
+    "title": "Daily Motivation",
+    "quote": "Work hard in silence. Let your success be your noise.",
+    "posted": false
   },
   {
-    "id": 271,
+    "id": 697,
     "title": "Wisdom",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-16T18:00:55.749Z"
+    "quote": "You don't always need a plan. Sometimes you just need to breathe, trust, let go, and see what happens.",
+    "posted": false
   },
   {
-    "id": 272,
-    "title": "Motivation",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-17T00:01:01.495Z"
-  },
-  {
-    "id": 273,
+    "id": 698,
     "title": "Success",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-17T01:09:06.986Z"
+    "quote": "If you can dream it, you can achieve it.",
+    "posted": false
   },
   {
-    "id": 274,
-    "title": "Discipline",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-17T06:00:58.248Z"
+    "id": 699,
+    "title": "Deep Thought",
+    "quote": "What you get by achieving your goals is not as important as what you become by achieving them.",
+    "posted": false
   },
   {
-    "id": 275,
-    "title": "Growth",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-17T06:51:41.238Z"
+    "id": 700,
+    "title": "Life Lesson",
+    "quote": "Challenges are what make life interesting. Overcoming them is what makes life meaningful.",
+    "posted": false
   },
   {
-    "id": 276,
+    "id": 701,
     "title": "Mindset",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-17T12:01:03.003Z"
-  },
-  {
-    "id": 277,
-    "title": "Wisdom",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-17T18:37:00.843Z"
-  },
-  {
-    "id": 278,
-    "title": "Motivation",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-18T00:00:59.391Z"
+    "quote": "Wherever you go, go with all your heart.",
+    "posted": false
   },
   {
-    "id": 279,
-    "title": "Success",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-18T01:06:44.723Z"
-  },
-  {
-    "id": 280,
-    "title": "Discipline",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-18T06:00:56.840Z"
-  },
-  {
-    "id": 281,
+    "id": 702,
     "title": "Growth",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-18T12:00:58.515Z"
+    "quote": "We generate fears while we sit. We overcome them by action.",
+    "posted": false
   },
   {
-    "id": 282,
-    "title": "Mindset",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-18T18:01:21.081Z"
+    "id": 703,
+    "title": "Daily Motivation",
+    "quote": "Do one thing every day that scares you.",
+    "posted": false
   },
   {
-    "id": 283,
+    "id": 704,
     "title": "Wisdom",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-19T00:01:02.954Z"
-  },
-  {
-    "id": 284,
-    "title": "Motivation",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-19T01:07:51.952Z"
+    "quote": "What you do today can improve all your tomorrows.",
+    "posted": false
   },
   {
-    "id": 285,
+    "id": 705,
     "title": "Success",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-19T06:01:02.966Z"
+    "quote": "You don't have to see the whole staircase, just take the first step.",
+    "posted": false
   },
   {
-    "id": 286,
-    "title": "Discipline",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-19T12:01:17.829Z"
+    "id": 706,
+    "title": "Deep Thought",
+    "quote": "The journey of a thousand miles begins with one step.",
+    "posted": false
   },
   {
-    "id": 287,
-    "title": "Growth",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-19T18:00:57.150Z"
+    "id": 707,
+    "title": "Life Lesson",
+    "quote": "That which does not kill us makes us stronger.",
+    "posted": false
   },
   {
-    "id": 288,
+    "id": 708,
     "title": "Mindset",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-20T00:00:57.640Z"
-  },
-  {
-    "id": 289,
-    "title": "Wisdom",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-20T01:07:13.393Z"
-  },
-  {
-    "id": 290,
-    "title": "Motivation",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-20T06:00:59.619Z"
-  },
-  {
-    "id": 291,
-    "title": "Success",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-20T12:01:03.709Z"
-  },
-  {
-    "id": 292,
-    "title": "Discipline",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-20T18:00:59.233Z"
+    "quote": "Believe deep down in your heart that you're destined to do great things.",
+    "posted": false
   },
   {
-    "id": 293,
+    "id": 709,
     "title": "Growth",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-21T00:00:59.709Z"
+    "quote": "I am not afraid of storms, for I am learning how to sail my ship.",
+    "posted": false
   },
   {
-    "id": 294,
-    "title": "Mindset",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-21T01:10:57.071Z"
+    "id": 710,
+    "title": "Daily Motivation",
+    "quote": "Once you choose hope, anything is possible.",
+    "posted": false
   },
   {
-    "id": 295,
+    "id": 711,
     "title": "Wisdom",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-21T06:01:07.159Z"
+    "quote": "It is not in the stars to hold our destiny but in ourselves.",
+    "posted": false
   },
   {
-    "id": 296,
-    "title": "Motivation",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-21T12:00:59.746Z"
-  },
-  {
-    "id": 297,
+    "id": 712,
     "title": "Success",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-21T18:00:59.345Z"
+    "quote": "The best preparation for tomorrow is doing your best today.",
+    "posted": false
   },
   {
-    "id": 298,
-    "title": "Discipline",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-22T00:01:02.574Z"
+    "id": 713,
+    "title": "Deep Thought",
+    "quote": "You can't use up creativity. The more you use, the more you have.",
+    "posted": false
   },
   {
-    "id": 299,
-    "title": "Growth",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-22T01:07:08.808Z"
+    "id": 714,
+    "title": "Life Lesson",
+    "quote": "Happiness is not by chance, but by choice.",
+    "posted": false
   },
   {
-    "id": 300,
+    "id": 715,
     "title": "Mindset",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-22T06:00:57.811Z"
-  },
-  {
-    "id": 301,
-    "title": "Wisdom",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-22T12:00:58.184Z"
-  },
-  {
-    "id": 302,
-    "title": "Motivation",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-22T18:00:56.263Z"
-  },
-  {
-    "id": 303,
-    "title": "Success",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-23T00:00:59.166Z"
-  },
-  {
-    "id": 304,
-    "title": "Discipline",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-23T01:12:48.535Z"
+    "quote": "Nothing is impossible to a willing heart.",
+    "posted": false
   },
   {
-    "id": 305,
+    "id": 716,
     "title": "Growth",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-23T06:00:58.774Z"
+    "quote": "The secret of success is constancy of purpose.",
+    "posted": false
   },
   {
-    "id": 306,
-    "title": "Mindset",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-23T12:00:55.442Z"
+    "id": 717,
+    "title": "Daily Motivation",
+    "quote": "Wherever you are, be all there.",
+    "posted": false
   },
   {
-    "id": 307,
+    "id": 718,
     "title": "Wisdom",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-23T18:00:59.423Z"
-  },
-  {
-    "id": 308,
-    "title": "Motivation",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-24T00:00:57.476Z"
+    "quote": "Don't wait. The time will never be just right.",
+    "posted": false
   },
   {
-    "id": 309,
+    "id": 719,
     "title": "Success",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-24T01:10:28.107Z"
+    "quote": "Strength does not come from physical capacity. It comes from an indomitable will.",
+    "posted": false
   },
   {
-    "id": 310,
-    "title": "Discipline",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-24T06:00:58.376Z"
+    "id": 720,
+    "title": "Deep Thought",
+    "quote": "You have to expect things of yourself before you can do them.",
+    "posted": false
   },
   {
-    "id": 311,
-    "title": "Growth",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-24T06:54:39.091Z"
+    "id": 721,
+    "title": "Life Lesson",
+    "quote": "Don't be pushed by your problems. Be led by your dreams.",
+    "posted": false
   },
   {
-    "id": 312,
+    "id": 722,
     "title": "Mindset",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-24T12:01:02.466Z"
+    "quote": "The future belongs to those who believe in the beauty of their dreams.",
+    "posted": false
   },
   {
-    "id": 313,
-    "title": "Wisdom",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-24T18:01:27.484Z"
+    "id": 723,
+    "title": "Growth",
+    "quote": "You must do the things you think you cannot do.",
+    "posted": false
+  },
+  {
+    "id": 724,
+    "title": "Daily Motivation",
+    "quote": "Nothing great was ever achieved without enthusiasm.",
+    "posted": false
   },
   {
-    "id": 314,
-    "title": "Motivation",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-25T00:01:00.104Z"
+    "id": 725,
+    "title": "Wisdom",
+    "quote": "The only real mistake is the one from which we learn nothing.",
+    "posted": false
   },
   {
-    "id": 315,
+    "id": 726,
     "title": "Success",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-25T01:09:03.487Z"
+    "quote": "If you want to lift yourself up, lift up someone else.",
+    "posted": false
   },
   {
-    "id": 316,
-    "title": "Discipline",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-25T06:00:56.210Z"
+    "id": 727,
+    "title": "Deep Thought",
+    "quote": "Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.",
+    "posted": false
   },
   {
-    "id": 317,
-    "title": "Growth",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-25T12:01:03.383Z"
+    "id": 728,
+    "title": "Life Lesson",
+    "quote": "You can't fall if you don't climb. But there's no joy in living your whole life on the ground.",
+    "posted": false
   },
   {
-    "id": 318,
+    "id": 729,
     "title": "Mindset",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-25T18:01:02.867Z"
+    "quote": "We must accept finite disappointment, but never lose infinite hope.",
+    "posted": false
   },
   {
-    "id": 319,
-    "title": "Wisdom",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-26T00:01:01.195Z"
+    "id": 730,
+    "title": "Growth",
+    "quote": "It's not the load that breaks you down, it's the way you carry it.",
+    "posted": false
+  },
+  {
+    "id": 731,
+    "title": "Daily Motivation",
+    "quote": "Try not to become a man of success. Rather become a man of value.",
+    "posted": false
   },
   {
-    "id": 320,
-    "title": "Motivation",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-26T01:11:31.984Z"
+    "id": 732,
+    "title": "Wisdom",
+    "quote": "A ship in harbor is safe, but that is not what ships are built for.",
+    "posted": false
   },
   {
-    "id": 321,
+    "id": 733,
     "title": "Success",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-26T06:00:59.763Z"
+    "quote": "The only way to discover the limits of the possible is to go beyond them into the impossible.",
+    "posted": false
   },
   {
-    "id": 322,
-    "title": "Discipline",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-26T12:01:00.553Z"
+    "id": 734,
+    "title": "Deep Thought",
+    "quote": "You were born with wings. Why prefer to crawl through life?",
+    "posted": false
   },
   {
-    "id": 323,
-    "title": "Growth",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-26T12:48:04.629Z"
+    "id": 735,
+    "title": "Life Lesson",
+    "quote": "Keep your eyes on the stars and your feet on the ground.",
+    "posted": false
   },
   {
-    "id": 324,
+    "id": 736,
     "title": "Mindset",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-26T18:01:04.864Z"
+    "quote": "The only disability in life is a bad attitude.",
+    "posted": false
   },
   {
-    "id": 325,
-    "title": "Wisdom",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-26T19:46:27.548Z"
+    "id": 737,
+    "title": "Growth",
+    "quote": "You have to be at your best when your best is needed.",
+    "posted": false
+  },
+  {
+    "id": 738,
+    "title": "Daily Motivation",
+    "quote": "I can't change the direction of the wind, but I can adjust my sails to always reach my destination.",
+    "posted": false
   },
   {
-    "id": 326,
-    "title": "Motivation",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-27T00:01:03.491Z"
+    "id": 739,
+    "title": "Wisdom",
+    "quote": "The difference between a stumbling block and a stepping stone is how high you raise your foot.",
+    "posted": false
   },
   {
-    "id": 327,
+    "id": 740,
     "title": "Success",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-27T06:01:01.476Z"
+    "quote": "We must be willing to let go of the life we planned so as to have the life that is waiting for us.",
+    "posted": false
   },
   {
-    "id": 328,
-    "title": "Discipline",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-27T07:22:53.087Z"
+    "id": 741,
+    "title": "Deep Thought",
+    "quote": "The most wasted of days is one without laughter.",
+    "posted": false
   },
   {
-    "id": 329,
-    "title": "Growth",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-27T12:01:00.088Z"
+    "id": 742,
+    "title": "Life Lesson",
+    "quote": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+    "posted": false
   },
   {
-    "id": 330,
+    "id": 743,
     "title": "Mindset",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-27T18:01:03.601Z"
+    "quote": "Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.",
+    "posted": false
   },
   {
-    "id": 331,
-    "title": "Wisdom",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-27T21:47:08.963Z"
+    "id": 744,
+    "title": "Growth",
+    "quote": "In the middle of difficulty lies opportunity.",
+    "posted": false
+  },
+  {
+    "id": 745,
+    "title": "Daily Motivation",
+    "quote": "The harder the struggle, the more glorious the triumph.",
+    "posted": false
   },
   {
-    "id": 332,
-    "title": "Motivation",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-28T00:01:04.677Z"
+    "id": 746,
+    "title": "Wisdom",
+    "quote": "Turn your wounds into wisdom.",
+    "posted": false
   },
   {
-    "id": 333,
+    "id": 747,
     "title": "Success",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-28T06:01:05.690Z"
+    "quote": "Start where you are. Use what you have. Do what you can.",
+    "posted": false
   },
   {
-    "id": 334,
-    "title": "Discipline",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-28T09:37:20.915Z"
+    "id": 748,
+    "title": "Deep Thought",
+    "quote": "It is not the mountain we conquer, but ourselves.",
+    "posted": false
   },
   {
-    "id": 335,
-    "title": "Growth",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-28T12:01:03.800Z"
+    "id": 749,
+    "title": "Life Lesson",
+    "quote": "Real change, enduring change, happens one step at a time.",
+    "posted": false
   },
   {
-    "id": 336,
+    "id": 750,
     "title": "Mindset",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-28T18:01:03.042Z"
+    "quote": "To handle yourself, use your head. To handle others, use your heart.",
+    "posted": false
   },
   {
-    "id": 337,
-    "title": "Wisdom",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-28T21:43:46.546Z"
+    "id": 751,
+    "title": "Growth",
+    "quote": "If not now, when? If not you, who?",
+    "posted": false
+  },
+  {
+    "id": 752,
+    "title": "Daily Motivation",
+    "quote": "The only journey is the one within.",
+    "posted": false
   },
   {
-    "id": 338,
-    "title": "Motivation",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-29T00:01:05.062Z"
+    "id": 753,
+    "title": "Wisdom",
+    "quote": "Nothing is impossible. The word itself says I'm possible.",
+    "posted": false
   },
   {
-    "id": 339,
+    "id": 754,
     "title": "Success",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-29T05:42:02.334Z"
+    "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "posted": false
   },
   {
-    "id": 340,
-    "title": "Discipline",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-29T12:01:00.718Z"
+    "id": 755,
+    "title": "Deep Thought",
+    "quote": "I am not a product of my circumstances. I am a product of my decisions.",
+    "posted": false
   },
   {
-    "id": 341,
-    "title": "Growth",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-29T18:01:02.588Z"
+    "id": 756,
+    "title": "Life Lesson",
+    "quote": "Every strike brings me closer to the next home run.",
+    "posted": false
   },
   {
-    "id": 342,
+    "id": 757,
     "title": "Mindset",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-29T20:25:47.907Z"
+    "quote": "Life isn't about finding yourself. Life is about creating yourself.",
+    "posted": false
   },
   {
-    "id": 343,
-    "title": "Wisdom",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-30T00:01:04.709Z"
+    "id": 758,
+    "title": "Growth",
+    "quote": "The man who has confidence in himself gains the confidence of others.",
+    "posted": false
+  },
+  {
+    "id": 759,
+    "title": "Daily Motivation",
+    "quote": "Knowing is not enough; we must apply. Willing is not enough; we must do.",
+    "posted": false
   },
   {
-    "id": 344,
-    "title": "Motivation",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-30T03:43:29.941Z"
+    "id": 760,
+    "title": "Wisdom",
+    "quote": "Imagination is everything. It is the preview of life's coming attractions.",
+    "posted": false
   },
   {
-    "id": 345,
+    "id": 761,
     "title": "Success",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-30T06:01:00.168Z"
+    "quote": "When I let go of what I am, I become what I might be.",
+    "posted": false
   },
   {
-    "id": 346,
-    "title": "Discipline",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-30T11:17:21.497Z"
+    "id": 762,
+    "title": "Deep Thought",
+    "quote": "The mind is not a vessel to be filled but a fire to be kindled.",
+    "posted": false
   },
   {
-    "id": 347,
-    "title": "Growth",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-30T16:03:52.496Z"
+    "id": 763,
+    "title": "Life Lesson",
+    "quote": "The secret of change is to focus all your energy not on fighting the old, but on building the new.",
+    "posted": false
   },
   {
-    "id": 348,
+    "id": 764,
     "title": "Mindset",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-30T18:01:04.467Z"
+    "quote": "One day or day one. You decide.",
+    "posted": false
   },
   {
-    "id": 349,
-    "title": "Wisdom",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-30T20:35:32.588Z"
+    "id": 765,
+    "title": "Growth",
+    "quote": "If you want to fly, give up everything that weighs you down.",
+    "posted": false
   },
   {
-    "id": 350,
-    "title": "Motivation",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-31T00:01:01.192Z"
+    "id": 766,
+    "title": "Daily Motivation",
+    "quote": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+    "posted": false
   },
   {
-    "id": 351,
-    "title": "Success",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-08-31T03:44:37.327Z"
+    "id": 767,
+    "title": "Wisdom",
+    "quote": "When everything seems to be going against you, remember that the airplane takes off against the wind.",
+    "posted": false
   },
   {
-    "id": 352,
-    "title": "Discipline",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-08-31T06:01:00.714Z"
+    "id": 768,
+    "title": "Success",
+    "quote": "It's not whether you get knocked down, it's whether you get up.",
+    "posted": false
   },
   {
-    "id": 353,
-    "title": "Growth",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-08-31T12:01:07.520Z"
+    "id": 769,
+    "title": "Deep Thought",
+    "quote": "We may encounter many defeats but we must not be defeated.",
+    "posted": false
   },
   {
-    "id": 354,
-    "title": "Mindset",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-08-31T18:01:05.746Z"
-  },
-  {
-    "id": 355,
-    "title": "Wisdom",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-08-31T22:28:22.714Z"
-  },
-  {
-    "id": 356,
-    "title": "Motivation",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-01T00:01:07.242Z"
-  },
-  {
-    "id": 357,
-    "title": "Success",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-01T03:38:51.536Z"
-  },
-  {
-    "id": 358,
-    "title": "Discipline",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-01T06:01:05.672Z"
-  },
-  {
-    "id": 359,
-    "title": "Growth",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-01T11:07:48.679Z"
-  },
-  {
-    "id": 360,
-    "title": "Mindset",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-01T12:01:09.855Z"
-  },
-  {
-    "id": 361,
-    "title": "Wisdom",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-01T16:04:31.881Z"
-  },
-  {
-    "id": 362,
-    "title": "Motivation",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-01T18:01:05.026Z"
-  },
-  {
-    "id": 363,
-    "title": "Success",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-01T20:34:48.373Z"
-  },
-  {
-    "id": 364,
-    "title": "Discipline",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-02T00:01:11.765Z"
-  },
-  {
-    "id": 365,
-    "title": "Growth",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-02T02:57:11.495Z"
-  },
-  {
-    "id": 366,
-    "title": "Mindset",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-02T06:01:09.210Z"
-  },
-  {
-    "id": 367,
-    "title": "Wisdom",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-02T10:40:07.653Z"
-  },
-  {
-    "id": 368,
-    "title": "Motivation",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-02T12:01:10.567Z"
-  },
-  {
-    "id": 369,
-    "title": "Success",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-02T15:58:53.860Z"
-  },
-  {
-    "id": 370,
-    "title": "Discipline",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-02T18:01:57.153Z"
-  },
-  {
-    "id": 371,
-    "title": "Growth",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-02T20:31:07.038Z"
-  },
-  {
-    "id": 372,
-    "title": "Mindset",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-03T00:01:12.847Z"
-  },
-  {
-    "id": 373,
-    "title": "Wisdom",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-03T03:00:00.331Z"
-  },
-  {
-    "id": 374,
-    "title": "Motivation",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-03T06:01:17.120Z"
-  },
-  {
-    "id": 375,
-    "title": "Success",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-03T10:41:46.113Z"
-  },
-  {
-    "id": 376,
-    "title": "Discipline",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-03T12:01:12.477Z"
-  },
-  {
-    "id": 377,
-    "title": "Growth",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-03T15:48:22.132Z"
-  },
-  {
-    "id": 378,
-    "title": "Mindset",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-03T18:01:10.631Z"
-  },
-  {
-    "id": 379,
-    "title": "Wisdom",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-03T20:31:12.385Z"
-  },
-  {
-    "id": 380,
-    "title": "Motivation",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-04T00:03:41.709Z"
-  },
-  {
-    "id": 381,
-    "title": "Success",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-04T02:58:57.318Z"
-  },
-  {
-    "id": 382,
-    "title": "Discipline",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-04T06:08:07.929Z"
-  },
-  {
-    "id": 383,
-    "title": "Growth",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-04T10:44:22.247Z"
-  },
-  {
-    "id": 384,
-    "title": "Mindset",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-04T12:01:14.677Z"
-  },
-  {
-    "id": 385,
-    "title": "Wisdom",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-04T15:46:42.721Z"
-  },
-  {
-    "id": 386,
-    "title": "Motivation",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-04T18:01:14.979Z"
-  },
-  {
-    "id": 387,
-    "title": "Success",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-04T20:17:39.857Z"
-  },
-  {
-    "id": 388,
-    "title": "Discipline",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-05T00:01:09.275Z"
-  },
-  {
-    "id": 389,
-    "title": "Growth",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-05T03:00:45.450Z"
-  },
-  {
-    "id": 390,
-    "title": "Mindset",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-05T06:01:10.342Z"
-  },
-  {
-    "id": 391,
-    "title": "Wisdom",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-05T09:58:34.856Z"
-  },
-  {
-    "id": 392,
-    "title": "Motivation",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-05T12:01:11.424Z"
-  },
-  {
-    "id": 393,
-    "title": "Success",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-05T14:36:56.858Z"
-  },
-  {
-    "id": 394,
-    "title": "Discipline",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-05T18:01:08.287Z"
-  },
-  {
-    "id": 395,
-    "title": "Growth",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-05T19:56:55.563Z"
-  },
-  {
-    "id": 396,
-    "title": "Mindset",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-06T00:01:14.838Z"
-  },
-  {
-    "id": 397,
-    "title": "Wisdom",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-06T03:00:13.030Z"
-  },
-  {
-    "id": 398,
-    "title": "Motivation",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-06T06:01:17.611Z"
-  },
-  {
-    "id": 399,
-    "title": "Success",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-06T10:17:18.183Z"
-  },
-  {
-    "id": 400,
-    "title": "Discipline",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-06T12:01:14.578Z"
-  },
-  {
-    "id": 401,
-    "title": "Growth",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-06T14:56:47.549Z"
-  },
-  {
-    "id": 402,
-    "title": "Mindset",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-06T18:01:11.004Z"
-  },
-  {
-    "id": 403,
-    "title": "Wisdom",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-06T20:00:28.453Z"
-  },
-  {
-    "id": 404,
-    "title": "Motivation",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-07T00:01:16.199Z"
-  },
-  {
-    "id": 405,
-    "title": "Success",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-07T02:58:35.244Z"
-  },
-  {
-    "id": 406,
-    "title": "Discipline",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-07T06:01:14.100Z"
-  },
-  {
-    "id": 407,
-    "title": "Growth",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-07T11:37:13.557Z"
-  },
-  {
-    "id": 408,
-    "title": "Mindset",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-07T17:16:29.810Z"
-  },
-  {
-    "id": 409,
-    "title": "Wisdom",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-07T21:07:48.398Z"
-  },
-  {
-    "id": 410,
-    "title": "Motivation",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-08T00:01:10.075Z"
-  },
-  {
-    "id": 411,
-    "title": "Success",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-08T03:08:10.270Z"
-  },
-  {
-    "id": 412,
-    "title": "Discipline",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-08T06:01:17.566Z"
-  },
-  {
-    "id": 413,
-    "title": "Growth",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-08T10:36:31.962Z"
-  },
-  {
-    "id": 414,
-    "title": "Mindset",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-08T12:01:17.574Z"
-  },
-  {
-    "id": 415,
-    "title": "Wisdom",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-08T16:00:51.233Z"
-  },
-  {
-    "id": 416,
-    "title": "Motivation",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-08T18:01:19.737Z"
-  },
-  {
-    "id": 417,
-    "title": "Success",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-08T20:44:07.442Z"
-  },
-  {
-    "id": 418,
-    "title": "Discipline",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-09T00:01:16.581Z"
-  },
-  {
-    "id": 419,
-    "title": "Growth",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-09T03:09:49.841Z"
-  },
-  {
-    "id": 420,
-    "title": "Mindset",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-09T06:01:16.125Z"
-  },
-  {
-    "id": 421,
-    "title": "Wisdom",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-09T10:46:45.407Z"
-  },
-  {
-    "id": 422,
-    "title": "Motivation",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-09T12:01:18.261Z"
-  },
-  {
-    "id": 423,
-    "title": "Success",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-09T15:56:37.445Z"
-  },
-  {
-    "id": 424,
-    "title": "Discipline",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-09T18:01:19.772Z"
-  },
-  {
-    "id": 425,
-    "title": "Growth",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-09T20:26:17.875Z"
-  },
-  {
-    "id": 426,
-    "title": "Mindset",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-10T00:01:20.081Z"
-  },
-  {
-    "id": 427,
-    "title": "Wisdom",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-10T03:10:21.497Z"
-  },
-  {
-    "id": 428,
-    "title": "Motivation",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-10T06:01:15.996Z"
-  },
-  {
-    "id": 429,
-    "title": "Success",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-10T10:39:04.170Z"
-  },
-  {
-    "id": 430,
-    "title": "Discipline",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-10T12:01:15.332Z"
-  },
-  {
-    "id": 431,
-    "title": "Growth",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-10T15:51:29.758Z"
-  },
-  {
-    "id": 432,
-    "title": "Mindset",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-10T18:01:16.019Z"
-  },
-  {
-    "id": 433,
-    "title": "Wisdom",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-10T20:26:20.412Z"
-  },
-  {
-    "id": 434,
-    "title": "Motivation",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-11T00:01:16.009Z"
-  },
-  {
-    "id": 435,
-    "title": "Success",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-11T03:05:04.057Z"
-  },
-  {
-    "id": 436,
-    "title": "Discipline",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-11T06:01:10.186Z"
-  },
-  {
-    "id": 437,
-    "title": "Growth",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-11T10:38:04.678Z"
-  },
-  {
-    "id": 438,
-    "title": "Mindset",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-11T12:01:13.622Z"
-  },
-  {
-    "id": 439,
-    "title": "Wisdom",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-11T15:53:10.387Z"
-  },
-  {
-    "id": 440,
-    "title": "Motivation",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-11T18:01:26.838Z"
-  },
-  {
-    "id": 441,
-    "title": "Success",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-11T20:28:17.285Z"
-  },
-  {
-    "id": 442,
-    "title": "Discipline",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-12T00:01:26.315Z"
-  },
-  {
-    "id": 443,
-    "title": "Growth",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-12T03:11:43.650Z"
-  },
-  {
-    "id": 444,
-    "title": "Mindset",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-12T06:01:20.249Z"
-  },
-  {
-    "id": 445,
-    "title": "Wisdom",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-12T10:07:38.723Z"
-  },
-  {
-    "id": 446,
-    "title": "Motivation",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-12T12:01:16.370Z"
-  },
-  {
-    "id": 447,
-    "title": "Success",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-12T15:00:35.652Z"
-  },
-  {
-    "id": 448,
-    "title": "Discipline",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-12T18:01:19.295Z"
-  },
-  {
-    "id": 449,
-    "title": "Growth",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-12T20:11:56.073Z"
-  },
-  {
-    "id": 450,
-    "title": "Mindset",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-13T00:01:19.908Z"
-  },
-  {
-    "id": 451,
-    "title": "Wisdom",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-13T03:14:54.103Z"
-  },
-  {
-    "id": 452,
-    "title": "Motivation",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-13T06:01:18.450Z"
-  },
-  {
-    "id": 453,
-    "title": "Success",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-13T11:06:43.980Z"
-  },
-  {
-    "id": 454,
-    "title": "Discipline",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-13T12:01:16.396Z"
-  },
-  {
-    "id": 455,
-    "title": "Growth",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-13T15:38:33.174Z"
-  },
-  {
-    "id": 456,
-    "title": "Mindset",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-13T18:01:13.558Z"
-  },
-  {
-    "id": 457,
-    "title": "Wisdom",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-13T20:20:46.152Z"
-  },
-  {
-    "id": 458,
-    "title": "Motivation",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-14T00:01:16.307Z"
-  },
-  {
-    "id": 459,
-    "title": "Success",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-14T03:27:38.916Z"
-  },
-  {
-    "id": 460,
-    "title": "Discipline",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-14T06:01:19.638Z"
-  },
-  {
-    "id": 461,
-    "title": "Growth",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-14T11:50:55.469Z"
-  },
-  {
-    "id": 462,
-    "title": "Mindset",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-14T17:43:34.723Z"
-  },
-  {
-    "id": 463,
-    "title": "Wisdom",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-14T21:30:12.006Z"
-  },
-  {
-    "id": 464,
-    "title": "Motivation",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-15T00:01:15.034Z"
-  },
-  {
-    "id": 465,
-    "title": "Success",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-15T03:28:35.099Z"
-  },
-  {
-    "id": 466,
-    "title": "Discipline",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-15T06:01:10.171Z"
-  },
-  {
-    "id": 467,
-    "title": "Growth",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-15T11:06:36.372Z"
-  },
-  {
-    "id": 468,
-    "title": "Mindset",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-15T12:01:16.961Z"
-  },
-  {
-    "id": 469,
-    "title": "Wisdom",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-15T16:17:26.153Z"
-  },
-  {
-    "id": 470,
-    "title": "Motivation",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-15T18:01:20.126Z"
-  },
-  {
-    "id": 471,
-    "title": "Success",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-15T20:52:42.336Z"
-  },
-  {
-    "id": 472,
-    "title": "Discipline",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-16T00:01:15.217Z"
-  },
-  {
-    "id": 473,
-    "title": "Growth",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-16T03:24:45.602Z"
-  },
-  {
-    "id": 474,
-    "title": "Mindset",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-16T06:01:13.900Z"
-  },
-  {
-    "id": 475,
-    "title": "Wisdom",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-16T10:52:51.580Z"
-  },
-  {
-    "id": 476,
-    "title": "Motivation",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-16T12:01:13.564Z"
-  },
-  {
-    "id": 477,
-    "title": "Success",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-16T16:10:08.298Z"
-  },
-  {
-    "id": 478,
-    "title": "Discipline",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-16T18:01:19.067Z"
-  },
-  {
-    "id": 479,
-    "title": "Growth",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-16T20:53:26.834Z"
-  },
-  {
-    "id": 480,
-    "title": "Mindset",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-17T00:01:16.965Z"
-  },
-  {
-    "id": 481,
-    "title": "Wisdom",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-17T03:30:14.696Z"
-  },
-  {
-    "id": 482,
-    "title": "Motivation",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-17T06:01:13.283Z"
-  },
-  {
-    "id": 483,
-    "title": "Success",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-17T10:59:31.728Z"
-  },
-  {
-    "id": 484,
-    "title": "Discipline",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-17T12:01:11.403Z"
-  },
-  {
-    "id": 485,
-    "title": "Growth",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-17T16:16:11.939Z"
-  },
-  {
-    "id": 486,
-    "title": "Mindset",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-17T18:01:25.929Z"
-  },
-  {
-    "id": 487,
-    "title": "Wisdom",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-17T20:57:54.583Z"
-  },
-  {
-    "id": 488,
-    "title": "Motivation",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-18T00:01:19.517Z"
-  },
-  {
-    "id": 489,
-    "title": "Success",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-18T03:16:10.030Z"
-  },
-  {
-    "id": 490,
-    "title": "Discipline",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-18T06:01:14.887Z"
-  },
-  {
-    "id": 491,
-    "title": "Growth",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-18T10:36:04.010Z"
-  },
-  {
-    "id": 492,
-    "title": "Mindset",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-18T12:01:15.791Z"
-  },
-  {
-    "id": 493,
-    "title": "Wisdom",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-18T15:51:39.253Z"
-  },
-  {
-    "id": 494,
-    "title": "Motivation",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-18T18:01:17.765Z"
-  },
-  {
-    "id": 495,
-    "title": "Success",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-18T20:25:30.813Z"
-  },
-  {
-    "id": 496,
-    "title": "Discipline",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-19T00:01:14.929Z"
-  },
-  {
-    "id": 497,
-    "title": "Growth",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-19T03:12:38.928Z"
-  },
-  {
-    "id": 498,
-    "title": "Mindset",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-19T06:01:10.248Z"
-  },
-  {
-    "id": 499,
-    "title": "Wisdom",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-19T10:20:21.819Z"
-  },
-  {
-    "id": 500,
-    "title": "Motivation",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-19T12:01:13.523Z"
-  },
-  {
-    "id": 501,
-    "title": "Success",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-19T15:23:09.033Z"
-  },
-  {
-    "id": 502,
-    "title": "Discipline",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-19T18:01:11.499Z"
-  },
-  {
-    "id": 503,
-    "title": "Growth",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-19T20:04:33.082Z"
-  },
-  {
-    "id": 504,
-    "title": "Mindset",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-20T00:01:13.625Z"
-  },
-  {
-    "id": 505,
-    "title": "Wisdom",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-20T03:29:20.307Z"
-  },
-  {
-    "id": 506,
-    "title": "Motivation",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-20T06:01:09.250Z"
-  },
-  {
-    "id": 507,
-    "title": "Success",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-20T10:39:54.073Z"
-  },
-  {
-    "id": 508,
-    "title": "Discipline",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-20T12:01:21.313Z"
-  },
-  {
-    "id": 509,
-    "title": "Growth",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-20T15:28:28.781Z"
-  },
-  {
-    "id": 510,
-    "title": "Mindset",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-20T18:01:14.500Z"
-  },
-  {
-    "id": 511,
-    "title": "Wisdom",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-20T20:20:59.231Z"
-  },
-  {
-    "id": 512,
-    "title": "Motivation",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-21T00:01:14.578Z"
-  },
-  {
-    "id": 513,
-    "title": "Success",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-21T03:24:11.666Z"
-  },
-  {
-    "id": 514,
-    "title": "Discipline",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-21T06:01:15.652Z"
-  },
-  {
-    "id": 515,
-    "title": "Growth",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-21T12:01:15.698Z"
-  },
-  {
-    "id": 516,
-    "title": "Mindset",
-    "quote": "Your future is created by what you do consistently, not occasionally. Every effort matters.",
-    "posted": true,
-    "posted_at": "2026-09-21T18:01:15.400Z"
-  },
-  {
-    "id": 517,
-    "title": "Wisdom",
-    "quote": "Discipline is the bridge between dreams and achievements. Progress is always worth it.",
-    "posted": true,
-    "posted_at": "2026-09-21T21:42:45.935Z"
-  },
-  {
-    "id": 518,
-    "title": "Motivation",
-    "quote": "Small improvements every day lead to remarkable results. Your consistency will reward you.",
-    "posted": true,
-    "posted_at": "2026-09-22T00:01:22.503Z"
-  },
-  {
-    "id": 519,
-    "title": "Success",
-    "quote": "Success follows those who stay committed after motivation fades. Believe in the process.",
-    "posted": true,
-    "posted_at": "2026-09-22T03:23:20.631Z"
-  },
-  {
-    "id": 520,
-    "title": "Discipline",
-    "quote": "Confidence grows through action, not waiting. Keep moving forward.",
-    "posted": true,
-    "posted_at": "2026-09-22T06:01:17.812Z"
+    "id": 770,
+    "title": "Life Lesson",
+    "quote": "You can never cross the ocean until you have the courage to lose sight of the shore.",
+    "posted": false
   }
 ]
