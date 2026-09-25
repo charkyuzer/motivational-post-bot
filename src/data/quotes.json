@@ -31,7 +31,8 @@
     "id": 525,
     "title": "Deep Thought",
     "quote": "The only way to do great work is to love what you do.",
-    "posted": false
+    "posted": true,
+    "posted_at": "2026-09-25T11:11:13.917Z"
   },
   {
     "id": 526,
