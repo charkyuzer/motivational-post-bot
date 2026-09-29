@@ -129,7 +129,8 @@
     "id": 539,
     "title": "Deep Thought",
     "quote": "The secret of success is to do the common thing uncommonly well.",
-    "posted": false
+    "posted": true,
+    "posted_at": "2026-09-29T04:19:30.848Z"
   },
   {
     "id": 540,
