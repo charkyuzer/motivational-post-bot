@@ -220,7 +220,8 @@
     "id": 552,
     "title": "Wisdom",
     "quote": "You will face many defeats in life, but never let yourself be defeated.",
-    "posted": false
+    "posted": true,
+    "posted_at": "2026-10-02T21:50:19.076Z"
   },
   {
     "id": 553,
