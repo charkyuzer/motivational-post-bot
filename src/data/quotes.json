@@ -213,7 +213,8 @@
     "id": 551,
     "title": "Success",
     "quote": "Do not go where the path may lead. Go instead where there is no path and leave a trail.",
-    "posted": false
+    "posted": true,
+    "posted_at": "2026-10-02T17:29:29.140Z"
   },
   {
     "id": 552,
