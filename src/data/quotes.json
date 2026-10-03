@@ -241,7 +241,8 @@
     "id": 555,
     "title": "Growth",
     "quote": "Never let the fear of striking out keep you from playing the game.",
-    "posted": false
+    "posted": true,
+    "posted_at": "2026-10-03T15:44:21.174Z"
   },
   {
     "id": 556,
