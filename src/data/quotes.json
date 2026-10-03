@@ -227,7 +227,8 @@
     "id": 553,
     "title": "Deep Thought",
     "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
-    "posted": false
+    "posted": true,
+    "posted_at": "2026-10-03T03:51:25.673Z"
   },
   {
     "id": 554,
