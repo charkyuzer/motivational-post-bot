@@ -248,7 +248,8 @@
     "id": 556,
     "title": "Daily Motivation",
     "quote": "Life is either a daring adventure or nothing at all.",
-    "posted": false
+    "posted": true,
+    "posted_at": "2026-10-03T20:36:30.452Z"
   },
   {
     "id": 557,
