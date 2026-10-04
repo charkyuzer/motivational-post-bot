@@ -276,7 +276,8 @@
     "id": 560,
     "title": "Deep Thought",
     "quote": "If you look at what you have in life, you'll always have more.",
-    "posted": false
+    "posted": true,
+    "posted_at": "2026-10-04T20:52:56.618Z"
   },
   {
     "id": 561,
