@@ -297,7 +297,8 @@
     "id": 563,
     "title": "Daily Motivation",
     "quote": "Money and success don't change people; they merely amplify what is already there.",
-    "posted": false
+    "posted": true,
+    "posted_at": "2026-10-05T23:45:28.310Z"
   },
   {
     "id": 564,
