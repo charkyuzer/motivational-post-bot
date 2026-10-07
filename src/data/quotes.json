@@ -339,7 +339,8 @@
     "id": 569,
     "title": "Growth",
     "quote": "Whoever is happy will make others happy too.",
-    "posted": false
+    "posted": true,
+    "posted_at": "2026-10-07T22:44:02.432Z"
   },
   {
     "id": 570,
