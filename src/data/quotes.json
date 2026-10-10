@@ -395,7 +395,8 @@
     "id": 577,
     "title": "Daily Motivation",
     "quote": "Start where you are. Use what you have. Do what you can.",
-    "posted": false
+    "posted": true,
+    "posted_at": "2026-10-10T11:56:22.552Z"
   },
   {
     "id": 578,
