@@ -388,7 +388,8 @@
     "id": 576,
     "title": "Growth",
     "quote": "You must be the change you wish to see in the world.",
-    "posted": false
+    "posted": true,
+    "posted_at": "2026-10-10T04:24:28.461Z"
   },
   {
     "id": 577,
