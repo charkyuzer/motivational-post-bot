@@ -486,7 +486,8 @@
     "id": 590,
     "title": "Growth",
     "quote": "Get busy living or get busy dying.",
-    "posted": false
+    "posted": true,
+    "posted_at": "2026-10-14T16:34:31.887Z"
   },
   {
     "id": 591,
