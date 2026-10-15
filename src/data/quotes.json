@@ -514,7 +514,8 @@
     "id": 594,
     "title": "Wisdom",
     "quote": "To the mind that is still, the whole universe surrenders.",
-    "posted": false
+    "posted": true,
+    "posted_at": "2026-10-15T16:20:03.682Z"
   },
   {
     "id": 595,
