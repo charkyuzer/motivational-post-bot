@@ -521,7 +521,8 @@
     "id": 595,
     "title": "Deep Thought",
     "quote": "What you get by achieving your goals is not as important as what you become by achieving them.",
-    "posted": false
+    "posted": true,
+    "posted_at": "2026-10-15T20:56:40.360Z"
   },
   {
     "id": 596,
