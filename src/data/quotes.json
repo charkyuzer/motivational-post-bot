@@ -556,7 +556,8 @@
     "id": 600,
     "title": "Success",
     "quote": "Every strike brings me closer to the next home run.",
-    "posted": false
+    "posted": true,
+    "posted_at": "2026-10-17T03:03:27.999Z"
   },
   {
     "id": 601,
