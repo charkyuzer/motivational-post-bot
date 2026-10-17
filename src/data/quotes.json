@@ -577,7 +577,8 @@
     "id": 603,
     "title": "Life Lesson",
     "quote": "Nothing will work unless you do.",
-    "posted": false
+    "posted": true,
+    "posted_at": "2026-10-17T20:08:57.083Z"
   },
   {
     "id": 604,
