@@ -570,7 +570,8 @@
     "id": 602,
     "title": "Deep Thought",
     "quote": "Life isn't about finding yourself. Life is about creating yourself.",
-    "posted": false
+    "posted": true,
+    "posted_at": "2026-10-17T14:58:55.246Z"
   },
   {
     "id": 603,
