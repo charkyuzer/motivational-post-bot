@@ -626,7 +626,8 @@
     "id": 610,
     "title": "Life Lesson",
     "quote": "Do what you can, with what you have, where you are.",
-    "posted": false
+    "posted": true,
+    "posted_at": "2026-10-19T22:00:17.789Z"
   },
   {
     "id": 611,
