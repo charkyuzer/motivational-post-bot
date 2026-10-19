@@ -619,7 +619,8 @@
     "id": 609,
     "title": "Deep Thought",
     "quote": "The mind is not a vessel to be filled but a fire to be kindled.",
-    "posted": false
+    "posted": true,
+    "posted_at": "2026-10-19T12:10:37.390Z"
   },
   {
     "id": 610,
