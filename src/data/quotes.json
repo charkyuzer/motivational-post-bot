@@ -675,7 +675,8 @@
     "id": 617,
     "title": "Life Lesson",
     "quote": "When everything seems to be going against you, remember that the airplane takes off against the wind.",
-    "posted": false
+    "posted": true,
+    "posted_at": "2026-10-21T16:38:15.003Z"
   },
   {
     "id": 618,
