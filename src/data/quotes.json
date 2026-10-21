@@ -682,7 +682,8 @@
     "id": 618,
     "title": "Growth",
     "quote": "It's not whether you get knocked down, it's whether you get up.",
-    "posted": false
+    "posted": true,
+    "posted_at": "2026-10-21T21:16:13.200Z"
   },
   {
     "id": 619,
