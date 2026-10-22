@@ -710,7 +710,8 @@
     "id": 622,
     "title": "Wisdom",
     "quote": "Only I can change my life. No one can do it for me.",
-    "posted": false
+    "posted": true,
+    "posted_at": "2026-10-22T21:12:33.210Z"
   },
   {
     "id": 623,
