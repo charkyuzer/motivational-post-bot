@@ -717,7 +717,8 @@
     "id": 623,
     "title": "Deep Thought",
     "quote": "The question isn't who is going to let me; it's who is going to stop me.",
-    "posted": false
+    "posted": true,
+    "posted_at": "2026-10-23T03:26:41.523Z"
   },
   {
     "id": 624,
