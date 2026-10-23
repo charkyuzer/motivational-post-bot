@@ -731,7 +731,8 @@
     "id": 625,
     "title": "Growth",
     "quote": "Either you run the day or the day runs you.",
-    "posted": false
+    "posted": true,
+    "posted_at": "2026-10-23T16:29:08.350Z"
   },
   {
     "id": 626,
